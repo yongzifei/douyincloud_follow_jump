@@ -1,0 +1,4 @@
+
+_python:S1763^"GDelete this unreachable code or refactor the code to make it reachable.(ç±«Õ
+rpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Å≥Ü£˘ˇˇˇˇ
+mpython:S3776ü"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ú«º–

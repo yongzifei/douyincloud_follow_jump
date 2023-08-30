@@ -1,0 +1,11 @@
+
+Gpython:S1172§"/Remove the unused function parameter "options".(­ˆŠ
+rpython:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(™»úÄşÿÿÿÿ
+dpython:S1134í"LTake the required action to fix the issue indicated by this "FIXME" comment.(É¸ºI
+python:S5886Ó"oRemove this yield statement or annotate function "join_lines" with "typing.Generator" or one of its supertypes.(ÖÓ´üÿÿÿÿ
+ˆpython:S5886Ö"oRemove this yield statement or annotate function "join_lines" with "typing.Generator" or one of its supertypes.(ÄĞ¿ô
+python:S5886ß"oRemove this yield statement or annotate function "join_lines" with "typing.Generator" or one of its supertypes.(ÖÓ´üÿÿÿÿ
+rpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(µÇëéûÿÿÿÿ
+Rpython:S1135á"4Complete the task associated to this "TODO" comment.(Š¹Øşÿÿÿÿ
+python:S5886ì"tRemove this yield statement or annotate function "ignore_comments" with "typing.Generator" or one of its supertypes.(ÄĞ¿ô
+’python:S5886‡"yRemove this yield statement or annotate function "expand_env_variables" with "typing.Generator" or one of its supertypes.(ÄĞ¿ô

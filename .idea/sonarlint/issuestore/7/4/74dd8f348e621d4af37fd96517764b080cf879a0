@@ -1,0 +1,11 @@
+
+Zpython:S6353 "BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(Ñ¨ãÚ
+Zpython:S6353 "BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(Ñ¨ãÚ
+mpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ÙÅ®à
+mpython:S3776š"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Äõ¢İ
+mpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(±¯ü
+`python:S5799 "GMerge these implicitly concatenated strings; or did you forget a comma?(²¶Àí
+ppython:S5713ò"WRemove this redundant Exception class; it derives from another which is already caught.(³Òš†
+Spython:S2836"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+rpython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ôãƒšüÿÿÿÿ
+|python:S1871"cEither merge this branch with the identical one on line "779" or change one of the implementations.(º‚Ìõ

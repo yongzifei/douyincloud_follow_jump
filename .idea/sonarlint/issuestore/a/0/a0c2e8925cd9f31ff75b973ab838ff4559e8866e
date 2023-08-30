@@ -1,0 +1,18 @@
+
+python:S1192´"wDefine a constant instead of duplicating this literal "Quit and manually define a default value in models.py." 3 times.(¿ïªâ
+Upython:S56554"=Change this argument; Function "len" expects a different type(áÀšŞ
+Opython:S11729"2Remove the unused function parameter "field_name".(¢–âÊÿÿÿÿÿ
+Opython:S11729"2Remove the unused function parameter "model_name".(¢–âÊÿÿÿÿÿ
+Jpython:S1172>"2Remove the unused function parameter "field_name".(®¶
+Jpython:S1172>"2Remove the unused function parameter "model_name".(®¶
+Mpython:S1172C"0Remove the unused function parameter "old_name".(×®Ğ¥üÿÿÿÿ
+Opython:S1172C"2Remove the unused function parameter "model_name".(×®Ğ¥üÿÿÿÿ
+Mpython:S1172C"0Remove the unused function parameter "new_name".(×®Ğ¥üÿÿÿÿ
+Spython:S1172C"6Remove the unused function parameter "field_instance".(×®Ğ¥üÿÿÿÿ
+Opython:S1172G"7Remove the unused function parameter "new_model_state".(Ô¯íÅ
+Opython:S1172G"7Remove the unused function parameter "old_model_state".(Ô¯íÅ
+Npython:S1172K"1Remove the unused function parameter "app_label".(Óšœ†üÿÿÿÿ
+Opython:S1172O"2Remove the unused function parameter "model_name".(šõ‚Øüÿÿÿÿ
+Opython:S1172O"2Remove the unused function parameter "field_name".(šõ‚Øüÿÿÿÿ
+Ipython:S1172T"2Remove the unused function parameter "field_name".(ìıéB
+Ipython:S1172T"2Remove the unused function parameter "model_name".(ìıéB

@@ -1,0 +1,6 @@
+
+apython:S1192¦"HDefine a constant instead of duplicating this literal "%s__gte" 5 times.(‹‡«¤
+jpython:S1192@"RDefine a constant instead of duplicating this literal "Date out of range" 3 times.(Æí™ı
+epython:S1192§"GDefine a constant instead of duplicating this literal "%s__lt" 5 times.(ÕÃ®¥ùÿÿÿÿ
+Ipython:S5806®"+Rename this variable; it shadows a builtin.(µ„ù³ÿÿÿÿÿ
+mpython:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(áÕÇ

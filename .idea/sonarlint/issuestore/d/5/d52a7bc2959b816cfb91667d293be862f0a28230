@@ -1,0 +1,11 @@
+
+upython:S117i"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿ
+npython:S117j"WRename this local variable "_Style" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÄ€‰
+python:S5886¤"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(–„¸ç
+“python:S5886¼"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(Õ±¸ÿÿÿÿÿ
+python:S5886¾"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(¡Öóå
+“python:S5886Ä"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(ååÄ ÿÿÿÿÿ
+python:S5886Ç"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(ãä·‹
+vpython:S117º"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿ
+mpython:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(æ‹ÌÚ
+Ipython:S5806¡"+Rename this variable; it shadows a builtin.(ƒşÎÚşÿÿÿÿ

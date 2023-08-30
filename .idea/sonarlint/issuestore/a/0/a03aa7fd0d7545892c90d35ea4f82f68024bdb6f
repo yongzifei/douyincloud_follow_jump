@@ -1,0 +1,5 @@
+
+qpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¸—×¦
+rpython:S117g"VRename this local variable "Model" to match the regular expression ^[_a-z][a-z0-9_]*$.(ðö†¤ûÿÿÿÿ
+opython:S1542X"RRename function "Deserializer" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÉØä¦ÿÿÿÿÿ
+qpython:S3776X"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(ÉØä¦ÿÿÿÿÿ

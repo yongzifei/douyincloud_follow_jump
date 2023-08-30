@@ -1,0 +1,4 @@
+
+rpython:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ùÚ…şÿÿÿÿ
+ppython:S117¹"XRename this parameter "maxExclusive" to match the regular expression ^[_a-z][a-z0-9_]*$.(­µ¯
+ppython:S117¹"XRename this parameter "minExclusive" to match the regular expression ^[_a-z][a-z0-9_]*$.(­µ¯

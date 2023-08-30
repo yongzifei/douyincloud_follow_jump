@@ -1,0 +1,5 @@
+
+~python:S101<"gRename class "_OFFSET_UNION" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(­èÿ
+@python:S1172k")Remove the unused function parameter "f".(ÜéëG
+Dpython:S1172k"-Remove the unused function parameter "flags".(ÜéëG
+Fpython:S1172o")Remove the unused function parameter "f".(¯ÔËáùÿÿÿÿ

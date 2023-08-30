@@ -1,0 +1,8 @@
+
+jpython:S1192±"LDefine a constant instead of duplicating this literal ' style="%s"' 6 times.(òî©«úÿÿÿÿ
+apython:S1192®"HDefine a constant instead of duplicating this literal '</span>' 7 times.(•ë¦õ
+kpython:S1192»"RDefine a constant instead of duplicating this literal '<span%s>%s</span>' 3 times.(òÉº
+lpython:S3776é"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÒÌ™
+rpython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Õà× ıÿÿÿÿ
+mpython:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(²ëË­
+rpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 57 to the 15 allowed.(ßÊÉ˜ıÿÿÿÿ

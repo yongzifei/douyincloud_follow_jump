@@ -1,0 +1,6 @@
+
+Vpython:S5857"9Replace this use of a reluctant quantifier with "[^\)]*".(ìíøÒüÿÿÿÿ
+lpython:S117O"URename this local variable "_Tag" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïùö»
+spython:S117‰"VRename this local variable "_Span" to match the regular expression ^[_a-z][a-z0-9_]*$.(»š­¨ùÿÿÿÿ
+mpython:S117Š"URename this local variable "_Tag" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïùö»
+lpython:S3776g"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(¡½à

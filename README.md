@@ -226,7 +226,7 @@ EXPOSE 8000
 ### 打包上传
 **Step 1**: 在项目根目录下执行如下命令进行镜像打包
 ```bash
-docker build -f Dockerfile -t django_python3_demo:1.0 .
+docker build -f Dockerfile -t follow_jump:1.0 .
 ```
 
 **Step 2**: 执行 `docker images`，拷贝 REPOSITORY 为 django_python3_demo 的 *IMAGE ID*(本地镜像ID)。

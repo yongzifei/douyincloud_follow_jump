@@ -1,0 +1,10 @@
+
+Qpython:S3516D"9Refactor this method to not always return the same value.(ŒÒûá
+python:S1871J"bEither merge this branch with the identical one on line "72" or change one of the implementations.(¶§àæúÿÿÿÿ
+Mpython:S1172ì"4Remove the unused function parameter "library_dirs".(ªò¾¿
+Upython:S1172ì"<Remove the unused function parameter "runtime_library_dirs".(ªò¾¿
+Opython:S1172í"6Remove the unused function parameter "extra_postargs".(Éèºˆ
+Opython:S1172ë"1Remove the unused function parameter "libraries".(›ñ×êÿÿÿÿÿ
+Opython:S1172ì"6Remove the unused function parameter "export_symbols".(ªò¾¿
+Kpython:S1172í"2Remove the unused function parameter "build_temp".(Éèºˆ
+Npython:S1172í"5Remove the unused function parameter "extra_preargs".(Éèºˆ

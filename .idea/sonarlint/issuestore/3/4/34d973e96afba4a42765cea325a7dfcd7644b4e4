@@ -1,0 +1,17 @@
+
+‡python:S1192"iDefine a constant instead of duplicating this literal "[progress.description]{task.description}" 4 times.(ÑßçÁıÿÿÿÿ
+bpython:S1192s"JDefine a constant instead of duplicating this literal "bar.pulse" 6 times.(ïªï˜
+jpython:S1192§"QDefine a constant instead of duplicating this literal "progress.elapsed" 3 times.(¶÷ò
+fpython:S1192p"IDefine a constant instead of duplicating this literal "bar.back" 6 times.(™…ûşÿÿÿÿÿ
+epython:S1192q"MDefine a constant instead of duplicating this literal "bar.complete" 6 times.(îÑÀ¬
+jpython:S1192r"MDefine a constant instead of duplicating this literal "bar.finished" 6 times.(¸¬ÎÃıÿÿÿÿ
+dpython:S1192¦"KDefine a constant instead of duplicating this literal "Reading..." 8 times.(ùø§
+cpython:S107h"LFunction "track" has 15 parameters, which is greater than the 13 authorized.(âú¢
+cpython:S107å"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œ
+ypython:S1186ä"[Add a nested comment explaining why this function is empty, or complete the implementation.(îÓÓùÿÿÿÿ
+cpython:S107ş"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œ
+ypython:S1186ı"[Add a nested comment explaining why this function is empty, or complete the implementation.(îÓÓùÿÿÿÿ
+cpython:S107–"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œ
+wpython:S1186ñ	"YAdd a nested comment explaining why this method is empty, or complete the implementation.(îÓÓùÿÿÿÿ
+wpython:S1186
+"YAdd a nested comment explaining why this method is empty, or complete the implementation.(îÓÓùÿÿÿÿ

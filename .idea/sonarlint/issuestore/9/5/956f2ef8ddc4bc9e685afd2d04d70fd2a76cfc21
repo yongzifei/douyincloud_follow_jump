@@ -1,0 +1,5 @@
+
+fpython:S5797å"HReplace this expression; used as a condition it will always be constant.(Â¶‘Ùüÿÿÿÿ
+Apython:S1940\")Use the opposite operator ("!=") instead.( È×
+lpython:S3776~"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(¥µì€
+Bpython:S1940»")Use the opposite operator ("!=") instead.( È×

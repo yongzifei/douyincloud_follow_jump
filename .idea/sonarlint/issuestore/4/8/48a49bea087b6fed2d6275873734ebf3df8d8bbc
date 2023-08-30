@@ -1,0 +1,9 @@
+
+jpython:S107†"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+kpython:S107­"NMethod "from_path" has 15 parameters, which is greater than the 13 authorized.(ÎÉ½Ğÿÿÿÿÿ
+rpython:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(¡•‚Îşÿÿÿÿ
+python:S5886Ø"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(åñ“¼
+“python:S5886Ü"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(şË›¤ıÿÿÿÿ
+vpython:S117«"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿ
+mpython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(’µ¿å
+bpython:S3358é"IExtract this nested conditional expression into an independent statement.(½ôÖ

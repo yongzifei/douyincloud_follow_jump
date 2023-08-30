@@ -1,0 +1,13 @@
+
+python:S1018"tRename class "CONSOLE_SCREEN_BUFFER_INFO" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(âê„üşÿÿÿÿ
+‰python:S101B"mRename class "CONSOLE_CURSOR_INFO" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ıâäîÿÿÿÿÿ
+opython:S1542M"RRename function "GetStdHandle" to match the regular expression ^[a-z_][a-z0-9_]*$.(Âıïµùÿÿÿÿ
+qpython:S1542^"TRename function "GetConsoleMode" to match the regular expression ^[a-z_][a-z0-9_]*$.(óÛÌşüÿÿÿÿ
+xpython:S1542"`Rename function "FillConsoleOutputCharacter" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜Ô¸
+~python:S1542¨"`Rename function "FillConsoleOutputAttribute" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å™íùüÿÿÿÿ
+{python:S1542Ë"]Rename function "SetConsoleTextAttribute" to match the regular expression ^[a-z_][a-z0-9_]*$.(É·¯«ıÿÿÿÿ
+~python:S1542ã"`Rename function "GetConsoleScreenBufferInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛÈĞÈûÿÿÿÿ
+|python:S1542û"^Rename function "SetConsoleCursorPosition" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ„×ºÿÿÿÿÿ
+spython:S1542’"ZRename function "GetConsoleCursorInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢İÀª
+xpython:S1542ª"ZRename function "SetConsoleCursorInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(öøØÿÿÿÿÿÿ
+spython:S1542¾"URename function "SetConsoleTitle" to match the regular expression ^[a-z_][a-z0-9_]*$.(´€æşÿÿÿÿ

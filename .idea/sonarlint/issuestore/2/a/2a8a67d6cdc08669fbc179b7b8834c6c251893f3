@@ -1,0 +1,14 @@
+
+rpython:S116Ğ"URename this field "DatabaseError" to match the regular expression ^[_a-z][_a-z0-9]*$.(˜ñ«˜øÿÿÿÿ
+npython:S116Ñ"QRename this field "DataError" to match the regular expression ^[_a-z][_a-z0-9]*$.(İÚ°¸ûÿÿÿÿ
+mpython:S116Ô"URename this field "InternalError" to match the regular expression ^[_a-z][_a-z0-9]*$.(–šîØ
+spython:S116Ï"VRename this field "InterfaceError" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œòşÿÿÿÿ
+spython:S116Ó"VRename this field "IntegrityError" to match the regular expression ^[_a-z][_a-z0-9]*$.(½ÆìÕøÿÿÿÿ
+gpython:S116Í"ORename this field "Warning" to match the regular expression ^[_a-z][_a-z0-9]*$.(‰û‰§
+upython:S116Õ"XRename this field "ProgrammingError" to match the regular expression ^[_a-z][_a-z0-9]*$.(óêú´ıÿÿÿÿ
+upython:S116Ò"XRename this field "OperationalError" to match the regular expression ^[_a-z][_a-z0-9]*$.(ä¹Ùüüÿÿÿÿ
+epython:S116Î"MRename this field "Error" to match the regular expression ^[_a-z][_a-z0-9]*$.(öè’Ç
+qpython:S116Ö"YRename this field "NotSupportedError" to match the regular expression ^[_a-z][_a-z0-9]*$.(ëÂÖÏ
+@python:S108T")Either remove or fill this block of code.(ã‘Û¾
+rpython:S1186œ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ˆ—Õ
+Apython:S108¸")Either remove or fill this block of code.(ã‘Û¾

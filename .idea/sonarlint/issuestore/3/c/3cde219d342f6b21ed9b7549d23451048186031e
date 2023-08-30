@@ -1,0 +1,4 @@
+
+mpython:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(éÓ§
+vpython:S5886É"XReturn a value of type "InfoDict" instead of "dict" or update function "info" type hint.(ŸÄÔúÿÿÿÿ
+rpython:S3776¾	"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Š’Í‡ÿÿÿÿÿ

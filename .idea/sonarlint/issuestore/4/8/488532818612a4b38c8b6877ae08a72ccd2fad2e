@@ -1,0 +1,10 @@
+
+hpython:S1192*"KDefine a constant instead of duplicating this literal '{base}/bin' 3 times.(±­³Þýÿÿÿÿ
+hpython:S1192H"KDefine a constant instead of duplicating this literal '{usersite}' 4 times.(½˜œ½üÿÿÿÿ
+dpython:S1192 "GDefine a constant instead of duplicating this literal '{base}' 5 times.(èªñ™üÿÿÿÿ
+rpython:S11926"UDefine a constant instead of duplicating this literal '{base}/site-packages' 4 times.(íÖÛÆûÿÿÿÿ
+Mpython:S1066ø"/Merge this if statement with the enclosing one.(àØì†ýÿÿÿÿ
+mpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÙÅ®à
+rpython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(óòÅ™ùÿÿÿÿ
+vpython:S3699æ"XRemove this use of the output from "subst_vars"; "subst_vars" doesnâ€™t return anything.(ÄŸ§·øÿÿÿÿ
+`python:S5799Á"GMerge these implicitly concatenated strings; or did you forget a comma?(¥ñ‚ˆ

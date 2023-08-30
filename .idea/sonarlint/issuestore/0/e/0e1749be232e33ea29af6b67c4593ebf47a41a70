@@ -1,0 +1,6 @@
+
+gpython:S1192R"ODefine a constant instead of duplicating this literal "ST_Polygon(%s)" 4 times.(œñ™Ç
+lpython:S37760"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ï‰ù˚
+{python:S101`"dRename class "ST_Polygon" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(É∆¥Ÿ
+Rpython:S1135Ò"4Complete the task associated to this "TODO" comment.(Ë„œ¸ˇˇˇˇ
+Vpython:S112Ú">Replace this generic exception class with a more specific one.(çﬂñã

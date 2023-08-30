@@ -1,0 +1,26 @@
+
+qpython:S1192¸"SDefine a constant instead of duplicating this literal 'distutils.commands' 3 times.(òçÂøÿÿÿÿ
+Rpython:S1135"4Complete the task associated to this "TODO" comment.(Àİ‹„ıÿÿÿÿ
+mpython:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ƒ·‘ª
+Ipython:S5806Ã"+Rename this variable; it shadows a builtin.(Ì«ßøÿÿÿÿ
+Jpython:S1172ğ",Remove the unused function parameter "dist".(“’í¾ùÿÿÿÿ
+Jpython:S1172ú",Remove the unused function parameter "dist".(­Øì¨ÿÿÿÿÿ
+Epython:S1172¡",Remove the unused function parameter "dist".(ú®å
+Epython:S1172¡",Remove the unused function parameter "attr".(ú®å
+Jpython:S1172´",Remove the unused function parameter "dist".(ĞôßÊøÿÿÿÿ
+Jpython:S1172»",Remove the unused function parameter "dist".(•ó¥¡ıÿÿÿÿ
+Jpython:S1172Â",Remove the unused function parameter "dist".(çÍÔÂúÿÿÿÿ
+Jpython:S1172Ğ",Remove the unused function parameter "dist".(é¦ÿ²øÿÿÿÿ
+epython:S5799Ö"GMerge these implicitly concatenated strings; or did you forget a comma?(…çÆ‡ÿÿÿÿÿ
+Jpython:S1172Û",Remove the unused function parameter "attr".(öÖ˜üÿÿÿÿ
+Jpython:S1172Û",Remove the unused function parameter "dist".(öÖ˜üÿÿÿÿ
+Jpython:S1172ã",Remove the unused function parameter "dist".( ÛÒìşÿÿÿÿ
+Jpython:S1172ã",Remove the unused function parameter "attr".( ÛÒìşÿÿÿÿ
+Jpython:S1172÷",Remove the unused function parameter "attr".(ºÿëùùÿÿÿÿ
+Jpython:S1172÷",Remove the unused function parameter "dist".(ºÿëùùÿÿÿÿ
+jpython:S1134Ÿ"LTake the required action to fix the issue indicated by this "FIXME" comment.(­â›¦ÿÿÿÿÿ
+rpython:S3776 "TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(™ƒššúÿÿÿÿ
+jpython:S1134"LTake the required action to fix the issue indicated by this "FIXME" comment.(¯±øÄüÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ôâæ
+Spython:S2836¼"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+mpython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ûÌÁ‹

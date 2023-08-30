@@ -1,0 +1,8 @@
+
+xpython:S1542c"`Rename function "test_DBAPISet_set_equality" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˇπœñ
+ipython:S1764d"LCorrect one of the identical sub-expressions on both sides of operator "==".(∏¥ÂΩ¸ˇˇˇˇ
+zpython:S1542g"bRename function "test_DBAPISet_set_inequality" to match the regular expression ^[a-z_][a-z0-9_]*$.(èÄù
+Épython:S1542k"kRename function "test_DBAPISet_set_equality_membership" to match the regular expression ^[a-z_][a-z0-9_]*$.(•Ñáò
+Öpython:S1542o"mRename function "test_DBAPISet_set_inequality_membership" to match the regular expression ^[a-z_][a-z0-9_]*$.(©°íÀ
+dpython:S1542s"LRename function "Binary" to match the regular expression ^[a-z_][a-z0-9_]*$.(€Å•ﬁ
+epython:S1542w"MRename function "Connect" to match the regular expression ^[a-z_][a-z0-9_]*$.(ﬁ≈ÆŒ

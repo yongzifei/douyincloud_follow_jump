@@ -1,0 +1,14 @@
+
+qpython:S3776-"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ë¢Ãìøÿÿÿÿ
+rpython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(¸ÿÕÅüÿÿÿÿ
+mpython:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÜÆ½Ï
+mpython:S117ø"URename this local variable "Meta" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹ºÑû
+rpython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ô¯´Óûÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(‘€ÿ
+rpython:S3776»"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¨‡ù¾úÿÿÿÿ
+upython:S117Ÿ"XRename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÒ °üÿÿÿÿ
+rpython:S107ï"[Function "modelformset_factory" has 23 parameters, which is greater than the 13 authorized.(šÈ™k
+rpython:S3776¤	"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Î¹½ùÿÿÿÿ
+ppython:S117°
+"XRename this local variable "FormSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä‡Ñ
+tpython:S107ô	"\Function "inlineformset_factory" has 25 parameters, which is greater than the 13 authorized.(ÉõÕî

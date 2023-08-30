@@ -1,0 +1,4 @@
+
+lpython:S3776*"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(µóÐ‹
+ppython:S117¤"XRename this parameter "markerString" to match the regular expression ^[_a-z][a-z0-9_]*$.(ï½À™
+ypython:S117‡"\Rename this parameter "parseElementList" to match the regular expression ^[_a-z][a-z0-9_]*$.(”®êîûÿÿÿÿ

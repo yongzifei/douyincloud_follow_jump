@@ -1,0 +1,7 @@
+
+Hpython:S1172l"+Remove the unused function parameter "obj".(£Û¦Éûÿÿÿÿ
+Dpython:S1172s",Remove the unused function parameter "item".(ş’ ®
+Dpython:S1172z",Remove the unused function parameter "args".(ŞÆú
+Fpython:S1172z".Remove the unused function parameter "kwargs".(ŞÆú
+Gpython:S1172z"/Remove the unused function parameter "request".(ŞÆú
+rpython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Âãşıÿÿÿÿ

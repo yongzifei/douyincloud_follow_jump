@@ -1,0 +1,21 @@
+
+€python:S1192û"bDefine a constant instead of duplicating this literal "First argument is not valid HTML:" 3 times.(¡ŠŠ²ýÿÿÿÿ
+{python:S1192ö"cDefine a constant instead of duplicating this literal "Second argument is not valid HTML:" 4 times.(ÑäÚ-
+spython:S117R"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(ð•Ù­
+ppython:S100­"SRename method "assertFormError" to match the regular expression ^[a-z_][a-z0-9_]*$.(•žöíÿÿÿÿÿ
+npython:S100Ï"VRename method "assertFormsetError" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÕïÑ–
+xpython:S117Œ"[Rename this local variable "testMethod" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¤ª’ûÿÿÿÿ
+rpython:S3776„"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(™Ö¦–ÿÿÿÿÿ
+tpython:S117‚"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Ž ¸
+ypython:S117–"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿžò øÿÿÿÿ
+ypython:S117Ù"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼¿©§ûÿÿÿÿ
+ypython:S117ð"\Rename this local variable "standardMsg" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼¿©§ûÿÿÿÿ
+qpython:S1542‰"SRename function "_deferredSkip" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ô“ß€üÿÿÿÿ
+rpython:S3776‰"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ô“ß€üÿÿÿÿ
+spython:S1542Ã"URename function "skipIfDBFeature" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ÃÙôþÿÿÿÿ
+wpython:S1542Î"YRename function "skipUnlessDBFeature" to match the regular expression ^[a-z_][a-z0-9_]*$.(ƒÏà¯úÿÿÿÿ
+zpython:S1542Ù"\Rename function "skipUnlessAnyDBFeature" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÅÜáªúÿÿÿÿ
+qpython:S1186ê"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Š•ü
+
+Rpython:S1135•"4Complete the task associated to this "TODO" comment.(ù«Ñœýÿÿÿÿ
+kpython:S100Ö"NRename method "setUpClass" to match the regular expression ^[a-z_][a-z0-9_]*$.(°¡­«úÿÿÿÿ

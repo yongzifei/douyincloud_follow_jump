@@ -1,0 +1,7 @@
+
+ipython:S107N"MMethod "__init__" has 15 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+qpython:S3776M"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ú„Úüùÿÿÿÿ
+epython:S1134Ô"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ë™ËÆ
+Dpython:S5806Ñ"+Rename this variable; it shadows a builtin.(³‡¼´
+Rpython:S1135"4Complete the task associated to this "TODO" comment.(Òÿôºùÿÿÿÿ
+Mpython:S1135¥"4Complete the task associated to this "TODO" comment.(€óÍÊ

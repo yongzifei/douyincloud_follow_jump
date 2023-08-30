@@ -1,0 +1,8 @@
+
+tpython:S100"\Rename method "assertParseResultsEquals" to match the regular expression ^[a-z_][a-z0-9_]*$.(ğ÷ã‚
+spython:S100"[Rename method "assertParseAndCheckList" to match the regular expression ^[a-z_][a-z0-9_]*$.(óÄÛ
+xpython:S100›"[Rename method "assertParseAndCheckDict" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘»ˆêÿÿÿÿÿ
+ppython:S100©"XRename method "assertRunTestResults" to match the regular expression ^[a-z_][a-z0-9_]*$.(Æ¹Ğ
+mpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Æ¹Ğ
+{python:S100é"^Rename method "assertRaisesParseException" to match the regular expression ^[a-z_][a-z0-9_]*$.(µ¸ÃÈúÿÿÿÿ
+rpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(îº¸˜ùÿÿÿÿ

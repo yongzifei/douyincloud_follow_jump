@@ -1,0 +1,11 @@
+
+`python:S1192¼"HDefine a constant instead of duplicating this literal '/nologo' 8 times.(†ç+
+`python:S1192–"GDefine a constant instead of duplicating this literal "cl.exe" 3 times.(é¿Ò£
+4python:S27727"Remove this unneeded "pass".(ã‘Û¾
+Cpython:S5806i"+Rename this variable; it shadows a builtin.(„ÅÈ
+upython:S117·"]Rename this local variable "majorVersion" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ²ç«
+upython:S117»"]Rename this local variable "minorVersion" to match the regular expression ^[_a-z][a-z0-9_]*$.(“­ÄÜ
+rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ÿ¾£¸ÿÿÿÿÿ
+mpython:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Õö
+Spython:S2836Ü"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+rpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(·¾èüÿÿÿÿ

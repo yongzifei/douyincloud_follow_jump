@@ -1,0 +1,9 @@
+
+kpython:S1542;"NRename function "Bool2Str" to match the regular expression ^[a-z_][a-z0-9_]*$.(¥‚«§ÿÿÿÿÿ
+jpython:S1542?"MRename function "Set2Str" to match the regular expression ^[a-z_][a-z0-9_]*$.(›à÷“üÿÿÿÿ
+fpython:S1542D"ORename function "Thing2Str" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÀšÑ
+gpython:S1542I"ORename function "Float2Str" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÃÃ„µ
+lpython:S1542R"ORename function "None2NULL" to match the regular expression ^[a-z_][a-z0-9_]*$.(ß·™¿üÿÿÿÿ
+kpython:S1542W"SRename function "Thing2Literal" to match the regular expression ^[a-z_][a-z0-9_]*$.(×¬˜è
+rpython:S1542_"URename function "Decimal2Literal" to match the regular expression ^[a-z_][a-z0-9_]*$.(ðî—¹ùÿÿÿÿ
+gpython:S1542c"ORename function "array2Str" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÃÛøÔ

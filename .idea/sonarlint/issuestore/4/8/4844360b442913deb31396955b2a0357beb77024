@@ -1,0 +1,16 @@
+
+opython:S116"SRename this field "insertedNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(µÒÏûÿÿÿÿ
+qpython:S116	"URename this field "expansionRate" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ÿö€ßûÿÿÿÿ
+hpython:S116"QRename this field "filterNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÑØŸ–
+opython:S116"SRename this field "insertedNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(µÒÏûÿÿÿÿ
+npython:S116"RRename this field "deletedNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(·™›Ïşÿÿÿÿ
+mpython:S116"QRename this field "bucketNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ì™®ûüÿÿÿÿ
+npython:S116"RRename this field "bucketSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(ßÚ¥˜ÿÿÿÿÿ
+hpython:S116"QRename this field "filterNum" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÑØŸ–
+jpython:S116"TRename this field "maxIteration" to match the regular expression ^[_a-z][_a-z0-9]*$.(ñÂƒ4
+qpython:S116"URename this field "expansionRate" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ÿö€ßûÿÿÿÿ
+upython:S116K"YRename this field "totalCompressions" to match the regular expression ^[_a-z][_a-z0-9]*$.(•äô¨ÿÿÿÿÿ
+jpython:S116G"SRename this field "mergedNodes" to match the regular expression ^[_a-z][_a-z0-9]*$.(âÁÚÌ
+kpython:S116I"TRename this field "mergedWeight" to match the regular expression ^[_a-z][_a-z0-9]*$.(«û†Ò
+lpython:S116H"URename this field "unmergedNodes" to match the regular expression ^[_a-z][_a-z0-9]*$.(¥¢Ú¯
+rpython:S116J"VRename this field "unmergedWeight" to match the regular expression ^[_a-z][_a-z0-9]*$.(¿Õ÷‡úÿÿÿÿ

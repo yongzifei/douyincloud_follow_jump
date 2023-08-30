@@ -1,0 +1,14 @@
+
+kpython:S1542"SRename function "DateFromTicks" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å§µÁ
+ppython:S1542"SRename function "TimeFromTicks" to match the regular expression ^[a-z_][a-z0-9_]*$.(şâìÈüÿÿÿÿ
+upython:S1542"XRename function "TimestampFromTicks" to match the regular expression ^[a-z_][a-z0-9_]*$.(”…Åÿÿÿÿÿ
+npython:S1542&"VRename function "format_TIMEDELTA" to match the regular expression ^[a-z_][a-z0-9_]*$.(ªÊœë
+spython:S1542-"VRename function "format_TIMESTAMP" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßÃ«íşÿÿÿÿ
+npython:S1542B"VRename function "DateTime_or_None" to match the regular expression ^[a-z_][a-z0-9_]*$.(ü˜ÊÃ
+opython:S1542_"WRename function "TimeDelta_or_None" to match the regular expression ^[a-z_][a-z0-9_]*$.(Î¥æ’
+opython:S1542v"RRename function "Time_or_None" to match the regular expression ^[a-z_][a-z0-9_]*$.(Òö¥¥øÿÿÿÿ
+kpython:S1542„"RRename function "Date_or_None" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ìãâö
+Bpython:S1172")Remove the unused function parameter "c".(æµ·Ú
+opython:S1542"VRename function "DateTime2literal" to match the regular expression ^[a-z_][a-z0-9_]*$.(æµ·Ú
+Gpython:S1172”")Remove the unused function parameter "c".(¶ç‰èüÿÿÿÿ
+ypython:S1542”"[Rename function "DateTimeDelta2literal" to match the regular expression ^[a-z_][a-z0-9_]*$.(¶ç‰èüÿÿÿÿ

@@ -1,0 +1,8 @@
+
+_python:S6353""BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(ÂÏ•ñşÿÿÿÿ
+lpython:S3776~"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ù®ÊÀ
+Ipython:S5806¢"+Rename this variable; it shadows a builtin.(Ê‹çşÿÿÿÿ
+rpython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(º°øŠÿÿÿÿÿ
+rpython:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(üò†Ùüÿÿÿÿ
+Npython:S1172ï"0Remove the unused function parameter "commands".(Õ»Æ‹üÿÿÿÿ
+mpython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ôâæ

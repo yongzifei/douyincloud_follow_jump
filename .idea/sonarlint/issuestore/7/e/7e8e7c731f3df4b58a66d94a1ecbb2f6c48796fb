@@ -1,0 +1,233 @@
+
+èpython:S1192‡"qDefine a constant instead of duplicating this literal ".namespace-packages[{data__namespacepackages_x}]" 4 times.(∑üËçˇˇˇˇˇ
+~python:S1192!"fDefine a constant instead of duplicating this literal 'containing module (no class nesting).' 6 times.(ô∑Ω¨
+kpython:S1192!"SDefine a constant instead of duplicating this literal "'find:' directive" 10 times.(ô∑Ω¨
+jpython:S1192±"QDefine a constant instead of duplicating this literal ".dynamic.version" 3 times.(É·‡Õ
+àpython:S1192!"pDefine a constant instead of duplicating this literal 'current maintainers, or owners of the package).' 8 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal '<https://setuptools.pypa.io/en/latest/userguide/entry_point.html>`_' 21 times.(ô∑Ω¨
+®python:S1192!"èDefine a constant instead of duplicating this literal "The people or organizations considered to be the 'maintainers' of the project." 8 times.(ô∑Ω¨
+Äpython:S1192!"hDefine a constant instead of duplicating this literal 'http://json-schema.org/draft-07/schema' 18 times.(ô∑Ω¨
+£python:S1192!"äDefine a constant instead of duplicating this literal 'Value is read from a module attribute. Supports callables and iterables;' 13 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'List of directories to be prepended to ``sys.path`` when loading the' 6 times.(ô∑Ω¨
+wpython:S1192!"_Define a constant instead of duplicating this literal 'MUST be a valid email address' 18 times.(ô∑Ω¨
+êpython:S1192!"xDefine a constant instead of duplicating this literal "Can container shell-style wildcards (e.g. ``'pkg.*'``)" 26 times.(ô∑Ω¨
+îpython:S1192!"|Define a constant instead of duplicating this literal 'Instruct the installer to create GUI wrappers for the given' 4 times.(ô∑Ω¨
+ìpython:S1192!"{Define a constant instead of duplicating this literal 'https://packaging.python.org/specifications/entry-points/' 23 times.(ô∑Ω¨
+}python:S1192!"eDefine a constant instead of duplicating this literal '(as initially defined in :pep:`621`)' 7 times.(ô∑Ω¨
+¶python:S1192!"çDefine a constant instead of duplicating this literal 'Please notice for the time being the ``setuptools`` project does not specify' 5 times.(ô∑Ω¨
+Çpython:S1192!"jDefine a constant instead of duplicating this literal 'unsupported types are cast via ``str()``' 13 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal 'be scanned for :pep:`420`-style implicit namespaces' 13 times.(ô∑Ω¨
+Äpython:S1192!"hDefine a constant instead of duplicating this literal 'The `summary description of the project' 8 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal '<https://www.python.org/dev/peps/pep-0621/#readme>`_' 8 times.(ô∑Ω¨
+~python:S1192!"fDefine a constant instead of duplicating this literal '(might become standard with PEP 639).' 6 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal '``importable.module``, or ``importable.module:object.attr``.' 23 times.(ô∑Ω¨
+vpython:S1192Ω"^Define a constant instead of duplicating this literal ".packages[{data__packages_x}]" 4 times.(Á¯ôb
+üpython:S1192!"ÜDefine a constant instead of duplicating this literal 'Relative path to the file (UTF-8) which contains the license for the' 10 times.(ô∑Ω¨
+npython:S1192!"VDefine a constant instead of duplicating this literal 'and `setuptools docs' 21 times.(ô∑Ω¨
+£python:S1192!"äDefine a constant instead of duplicating this literal 'The name (primary identifier) of the project. MUST be statically defined.' 9 times.(ô∑Ω¨
+epython:S1192Œ"MDefine a constant instead of duplicating this literal ".package-dir" 6 times.(üÌ∂q
+öpython:S1192!"ÅDefine a constant instead of duplicating this literal '``tool.distutils`` subtables could be used with the same purpose' 4 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal 'Relative path to a text file containing the full description' 12 times.(ô∑Ω¨
+apython:S1192!"IDefine a constant instead of duplicating this literal ' NOTICE*' 7 times.(ô∑Ω¨
+bpython:S1192!"JDefine a constant instead of duplicating this literal ' COPYING*' 7 times.(ô∑Ω¨
+äpython:S1192!"rDefine a constant instead of duplicating this literal 'TODO: is this field deprecated/should be removed?' 6 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal 'The command class should be a directly defined at the top-level of the' 6 times.(ô∑Ω¨
+®python:S1192!"èDefine a constant instead of duplicating this literal 'List of keywords to assist searching for the distribution in a larger catalog.' 8 times.(ô∑Ω¨
+¢python:S1192!"âDefine a constant instead of duplicating this literal 'TODO: revise if PEP 639 is accepted. Probably ``project.license-files``?' 6 times.(ô∑Ω¨
+§python:S1192!"ãDefine a constant instead of duplicating this literal "The people or organizations considered to be the 'authors' of the project." 8 times.(ô∑Ω¨
+´python:S1192!"íDefine a constant instead of duplicating this literal 'https://packaging.python.org/en/latest/specifications/declaring-project-metadata/' 7 times.(ô∑Ω¨
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal 'Value is read from a file (or list of files and then concatenated)' 42 times.(ô∑Ω¨
+°python:S1192!"àDefine a constant instead of duplicating this literal 'but intentionally excludes ``dependency_links`` and ``setup_requires``.' 5 times.(ô∑Ω¨
+ßpython:S1192!"éDefine a constant instead of duplicating this literal '.. _core metadata: https://packaging.python.org/specifications/core-metadata/' 8 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal 'Resources that should be extracted together, if any of them is needed,' 6 times.(ô∑Ω¨
+bpython:S1192!"JDefine a constant instead of duplicating this literal '$comment' 85 times.(ô∑Ω¨
+_python:S1192ô"FDefine a constant instead of duplicating this literal ".name" 3 times.(áŸ„Ê
+opython:S1192!"WDefine a constant instead of duplicating this literal 'email, in :rfc:`822`.' 17 times.(ô∑Ω¨
+ßpython:S1192!"éDefine a constant instead of duplicating this literal 'directives. Please make sure the given file or attribute respects :pep:`440`.' 8 times.(ô∑Ω¨
+úpython:S1192!"ÉDefine a constant instead of duplicating this literal 'Data structure for the **project** table inside ``pyproject.toml``' 7 times.(ô∑Ω¨
+zpython:S1192!"bDefine a constant instead of duplicating this literal 'version is listed in ``dynamic``' 10 times.(ô∑Ω¨
+§python:S1192!"ãDefine a constant instead of duplicating this literal 'The difference between ``scripts`` and ``gui-scripts`` is only relevant in' 4 times.(ô∑Ω¨
+apython:S1192±"HDefine a constant instead of duplicating this literal ".readme" 7 times.(‹∫‹É
+ßpython:S1192!"éDefine a constant instead of duplicating this literal 'Entry-points are grouped together to indicate what sort of capabilities they' 21 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal '`Trove classifiers <https://pypi.org/classifiers/>`_' 8 times.(ô∑Ω¨
+ëpython:S1192!"yDefine a constant instead of duplicating this literal '``.rst`` suffixes, then the content-type is respectively' 9 times.(ô∑Ω¨
+£python:S1192!"äDefine a constant instead of duplicating this literal 'Since ``Metadata-Version`` is defined by the build back-end, ``name`` and' 8 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal '    cmdclass = {mycmd = "pkg.subpkg.module.CommandClass"}\n\n' 6 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'of the project. If the file path ends in case-insensitive ``.md`` or' 9 times.(ô∑Ω¨
+ípython:S1192!"zDefine a constant instead of duplicating this literal '``entry-point`` discovery mechanism (useful for plugins).' 9 times.(ô∑Ω¨
+¶python:S1192!"çDefine a constant instead of duplicating this literal 'Python object that will be used to perform the build according to :pep:`517`' 7 times.(ô∑Ω¨
+£python:S1192!"äDefine a constant instead of duplicating this literal 'NOTE: ``scripts`` was renamed to ``script-files`` to avoid confusion with' 5 times.(ô∑Ω¨
+°python:S1192!"àDefine a constant instead of duplicating this literal 'Specifies which fields are intentionally unspecified and expected to be' 8 times.(ô∑Ω¨
+Çpython:S1192Ω"dDefine a constant instead of duplicating this literal ".classifiers[{data__classifiers_x}]" 4 times.(π˚ãê˛ˇˇˇˇ
+gpython:S1192˜"NDefine a constant instead of duplicating this literal ".package-data" 6 times.(ÜïÆ˚
+õpython:S1192!"ÇDefine a constant instead of duplicating this literal '<https://setuptools.pypa.io/en/latest/userguide/datafiles.html>`_' 6 times.(ô∑Ω¨
+®python:S1192!"èDefine a constant instead of duplicating this literal 'For more information on how to include data files, check ``setuptools`` `docs' 22 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal 'the value is a list of glob patterns that should be installed in them.' 6 times.(ô∑Ω¨
+python:S1192!"gDefine a constant instead of duplicating this literal '    All the other fields are optional.' 8 times.(ô∑Ω¨
+®python:S1192!"èDefine a constant instead of duplicating this literal 'The exact meaning is open to interpretation (e.g. original or primary authors,' 8 times.(ô∑Ω¨
+°python:S1192!"àDefine a constant instead of duplicating this literal "with meaning similar to the one defined in `core metadata's Description" 8 times.(ô∑Ω¨
+python:S1192!"gDefine a constant instead of duplicating this literal 'which corresponds to a dynamic call to' 6 times.(ô∑Ω¨
+tpython:S1192!"\Define a constant instead of duplicating this literal '**(not supported by pip)**' 12 times.(ô∑Ω¨
+zpython:S1192¿"\Define a constant instead of duplicating this literal " must be python-module-name" 3 times.(∆∑Ω˚ˇˇˇˇˇ
+ßpython:S1192!"éDefine a constant instead of duplicating this literal 'Mapping of distutils-style command names to ``setuptools.Command`` subclasses' 6 times.(ô∑Ω¨
+epython:S1192â"LDefine a constant instead of duplicating this literal ".{data_key}" 6 times.(Òè£•
+°python:S1192!"àDefine a constant instead of duplicating this literal 'Originally, ``distutils`` allowed developers to configure arguments for' 4 times.(ô∑Ω¨
+tpython:S1192!"\Define a constant instead of duplicating this literal 'which apply to the project.' 8 times.(ô∑Ω¨
+ôpython:S1192!"ÄDefine a constant instead of duplicating this literal 'Package and virtual package names contained within this package' 6 times.(ô∑Ω¨
+¢python:S1192!"âDefine a constant instead of duplicating this literal '<https://packaging.python.org/specifications/core-metadata/#license>`_.' 10 times.(ô∑Ω¨
+êpython:S1192!"xDefine a constant instead of duplicating this literal 'Reference to a Python object. It is either in the form' 23 times.(ô∑Ω¨
+©python:S1192!"êDefine a constant instead of duplicating this literal '<https://packaging.python.org/specifications/core-metadata/#requires-python>`_.' 9 times.(ô∑Ω¨
+åpython:S1192!"tDefine a constant instead of duplicating this literal 'a way of configuring builds via ``pyproject.toml``.' 5 times.(ô∑Ω¨
+ßpython:S1192!"éDefine a constant instead of duplicating this literal 'Therefore this schema should be taken just as a *"thought experiment"* on how' 5 times.(ô∑Ω¨
+èpython:S1192!"wDefine a constant instead of duplicating this literal 'The version of the project as supported by :pep:`440`.' 9 times.(ô∑Ω¨
+îpython:S1192!"|Define a constant instead of duplicating this literal 'mimicking the keyword arguments of the associated function.' 6 times.(ô∑Ω¨
+èpython:S1192!"wDefine a constant instead of duplicating this literal 'Project dependency specification according to PEP 508' 20 times.(ô∑Ω¨
+ïpython:S1192!"}Define a constant instead of duplicating this literal 'Legacy way of defining scripts (entry-points are preferred).' 6 times.(ô∑Ω¨
+mpython:S1192Ä"ODefine a constant instead of duplicating this literal " must be array" 4 times.(ü÷›†˚ˇˇˇˇ
+§python:S1192!"ãDefine a constant instead of duplicating this literal '<https://setuptools.pypa.io/en/latest/userguide/declarative_config.html>`_' 5 times.(ô∑Ω¨
+ßpython:S1192!"éDefine a constant instead of duplicating this literal 'The ``find`` key is associated with a nested ``dict``-like structure that can' 6 times.(ô∑Ω¨
+fpython:S1192)"NDefine a constant instead of duplicating this literal ".build-system" 3 times.(†Ò·í
+{python:S1192!"cDefine a constant instead of duplicating this literal 'In turn, `core metadata`_ defines:' 8 times.(ô∑Ω¨
+ppython:S1192e"SDefine a constant instead of duplicating this literal " must not contain " 7 times.(∑é÷‘˙ˇˇˇˇ
+bpython:S1192!"JDefine a constant instead of duplicating this literal '$$comment' 8 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'Instruct the installer to create command-line wrappers for the given' 4 times.(ô∑Ω¨
+apython:S1192!"IDefine a constant instead of duplicating this literal '$schema' 18 times.(ô∑Ω¨
+npython:S1192!"VDefine a constant instead of duplicating this literal 'Author or Maintainer' 16 times.(ô∑Ω¨
+bpython:S1192!"JDefine a constant instead of duplicating this literal 'project.' 10 times.(ô∑Ω¨
+hpython:S1192!"PDefine a constant instead of duplicating this literal '$$description' 379 times.(ô∑Ω¨
+üpython:S1192!"ÜDefine a constant instead of duplicating this literal '<https://docs.python.org/3/install/#distutils-configuration-files>`_.' 4 times.(ô∑Ω¨
+üpython:S1192!"ÜDefine a constant instead of duplicating this literal '``version`` are the only mandatory information in ``pyproject.toml``.' 8 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal 'https://setuptools.pypa.io/en/latest/references/keywords.html' 5 times.(ô∑Ω¨
+vpython:S1192!"^Define a constant instead of duplicating this literal '#/definitions/attr-directive' 16 times.(ô∑Ω¨
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal '<https://setuptools.pypa.io/en/latest/userguide/datafiles.html>`_.' 22 times.(ô∑Ω¨
+spython:S1192!"[Define a constant instead of duplicating this literal 'See the `packaging guides' 21 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'When ``True``, directories without a ``__init__.py`` file will also' 13 times.(ô∑Ω¨
+~python:S1192!"fDefine a constant instead of duplicating this literal 'that are specified by ``MANIFEST.in``' 6 times.(ô∑Ω¨
+ópython:S1192!"Define a constant instead of duplicating this literal '<https://packaging.python.org/specifications/entry-points/>`_.' 9 times.(ô∑Ω¨
+öpython:S1192!"ÅDefine a constant instead of duplicating this literal 'this *might be done*, by following the principles established in' 5 times.(ô∑Ω¨
+êpython:S1192!"xDefine a constant instead of duplicating this literal '``setup.py`` scripts via `distutils configuration files' 4 times.(ô∑Ω¨
+opython:S1192!"WDefine a constant instead of duplicating this literal 'for more information.' 21 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal '``setuptools.config.expand.find_packages`` function.' 6 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal '<https://packaging.python.org/specifications/core-metadata/#summary>`_' 8 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal '`PyPI classifier <https://pypi.org/classifiers/>`_.' 10 times.(ô∑Ω¨
+ôpython:S1192!"ÄDefine a constant instead of duplicating this literal '(e.g. ``text/markdown``). The ``charset`` parameter is assumed' 11 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal 'version should be statically defined in the ``version`` field' 8 times.(ô∑Ω¨
+gpython:S1192ß"IDefine a constant instead of duplicating this literal ".dynamic" 5 times.(∆»ÊÈ˝ˇˇˇˇ
+lpython:S1192Ë"NDefine a constant instead of duplicating this literal ".entry-points" 3 times.(ﬂÂµ˝ˇˇˇˇ
+êpython:S1192!"xDefine a constant instead of duplicating this literal 'It can be given either as a list of package identifiers' 6 times.(ô∑Ω¨
+ëpython:S1192!"yDefine a constant instead of duplicating this literal 'The license of the project whose meaning is that of the' 10 times.(ô∑Ω¨
+•python:S1192!"åDefine a constant instead of duplicating this literal 'List of dependencies in the :pep:`508` format required to execute the build' 6 times.(ô∑Ω¨
+ßpython:S1192!"éDefine a constant instead of duplicating this literal '**DEPRECATED**: dict-like structure where each key represents a directory and' 6 times.(ô∑Ω¨
+¶python:S1192!"çDefine a constant instead of duplicating this literal 'Usually this option is not needed when using ``include-package-data = true``' 8 times.(ô∑Ω¨
+ípython:S1192!"zDefine a constant instead of duplicating this literal 'the given directory will be included in the distribution.' 8 times.(ô∑Ω¨
+åpython:S1192!"tDefine a constant instead of duplicating this literal 'Content-type (:rfc:`1341`) of the full description' 11 times.(ô∑Ω¨
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal 'Directories to be searched for packages (Unix-style relative path)' 13 times.(ô∑Ω¨
+úpython:S1192!"ÉDefine a constant instead of duplicating this literal "Please notice this don't work with wheels. See `data files support" 6 times.(ô∑Ω¨
+ìpython:S1192!"{Define a constant instead of duplicating this literal 'or as a ``dict``-like structure with a single key ``find``' 6 times.(ô∑Ω¨
+ãpython:S1192!"sDefine a constant instead of duplicating this literal 'entry-point based scripts (defined in :pep:`621`).' 5 times.(ô∑Ω¨
+öpython:S1192!"ÅDefine a constant instead of duplicating this literal 'Instruct the installer to expose the given modules/functions via' 9 times.(ô∑Ω¨
+{python:S1192!"cDefine a constant instead of duplicating this literal 'https://docs.python.org/3/install/' 4 times.(ô∑Ω¨
+cpython:S1192∑"JDefine a constant instead of duplicating this literal ".packages" 3 times.(Ã±ùı
+¢python:S1192!"âDefine a constant instead of duplicating this literal '    the metadata MUST specify the field statically or list it in dynamic' 8 times.(ô∑Ω¨
+opython:S1192´"VDefine a constant instead of duplicating this literal ".exclude-package-data" 6 times.(¨â‡â
+vpython:S1192!"^Define a constant instead of duplicating this literal '#/definitions/find-directive' 13 times.(ô∑Ω¨
+ípython:S1192!"zDefine a constant instead of duplicating this literal 'More information available in the `Python packaging guide' 9 times.(ô∑Ω¨
+¨python:S1192!"ìDefine a constant instead of duplicating this literal ':class:`dict`-like structure mapping from package names to directories where their' 8 times.(ô∑Ω¨
+qpython:S1192!"YDefine a constant instead of duplicating this literal '``tool.distutils`` table' 4 times.(ô∑Ω¨
+ppython:S1192Œ"WDefine a constant instead of duplicating this literal ".urls.{data__urls_key}" 4 times.(ãíüÒ
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'Relative path to a text file (UTF-8) containing the full description' 9 times.(ô∑Ω¨
+ípython:S1192!"zDefine a constant instead of duplicating this literal 'system. Please notice that the resulting dependency graph' 6 times.(ô∑Ω¨
+öpython:S1192!"ÅDefine a constant instead of duplicating this literal 'Instructions for loading :pep:`621`-related metadata dynamically' 7 times.(ô∑Ω¨
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal 'TODO: Is there a practical way of making this schema more specific?' 4 times.(ô∑Ω¨
+~python:S1192ë"`Define a constant instead of duplicating this literal ".obsoletes[{data__obsoletes_x}]" 4 times.(‚≠Ä¯˛ˇˇˇˇ
+ïpython:S1192!"}Define a constant instead of duplicating this literal 'or if any C extensions included in the project are imported.' 6 times.(ô∑Ω¨
+bpython:S1192!"JDefine a constant instead of duplicating this literal 'provide.' 21 times.(ô∑Ω¨
+{python:S1192!"cDefine a constant instead of duplicating this literal 'Full text describing the project.' 12 times.(ô∑Ω¨
+ypython:S1192!"aDefine a constant instead of duplicating this literal '#/definitions/entry-point-group' 33 times.(ô∑Ω¨
+•python:S1192!"åDefine a constant instead of duplicating this literal '<https://setuptools.pypa.io/en/latest/userguide/package_discovery.html>`_.' 12 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'Whether the project can be safely installed and run from a zip file.' 6 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal '    The required fields are: Metadata-Version, Name, Version.' 8 times.(ô∑Ω¨
+§python:S1192!"ãDefine a constant instead of duplicating this literal 'which in turn should be represented by strings with a qualified class name' 6 times.(ô∑Ω¨
+dpython:S1192!"LDefine a constant instead of duplicating this literal 'LICEN[CS]E*' 7 times.(ô∑Ω¨
+épython:S1192!"vDefine a constant instead of duplicating this literal 'Packages that should be included in the distribution.' 6 times.(ô∑Ω¨
+kpython:S1192!"SDefine a constant instead of duplicating this literal "'attr:' directive" 13 times.(ô∑Ω¨
+àpython:S1192!"pDefine a constant instead of duplicating this literal '`The Python version requirements of the project' 9 times.(ô∑Ω¨
+Üpython:S1192!"nDefine a constant instead of duplicating this literal '(i.e., "dotted" form with module), e.g.::\n\n' 6 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal 'Similarly to ``authors``, the exact meaning is open to interpretation.' 8 times.(ô∑Ω¨
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal 'Automatically include any data files inside the package directories' 6 times.(ô∑Ω¨
+¢python:S1192!"âDefine a constant instead of duplicating this literal '    If the core metadata specification lists a field as "Required", then' 8 times.(ô∑Ω¨
+|python:S1192!"dDefine a constant instead of duplicating this literal 'TODO: add regex pattern or format?' 11 times.(ô∑Ω¨
+ipython:S1192Ï"PDefine a constant instead of duplicating this literal ".dynamic.readme" 3 times.(πÕ†Ó
+ópython:S1192!"Define a constant instead of duplicating this literal 'https://www.python.org/dev/peps/pep-0621/#authors-maintainers' 16 times.(ô∑Ω¨
+§python:S1192!"ãDefine a constant instead of duplicating this literal '<https://packaging.python.org/specifications/core-metadata/#description>`_' 8 times.(ô∑Ω¨
+çpython:S1192!"uDefine a constant instead of duplicating this literal 'Global options applied to all ``distutils`` commands' 5 times.(ô∑Ω¨
+tpython:S1192!"\Define a constant instead of duplicating this literal '**MUST NOT contain cycles**' 6 times.(ô∑Ω¨
+python:S1192!"gDefine a constant instead of duplicating this literal 'Table used to store build-related data' 5 times.(ô∑Ω¨
+apython:S1192!"IDefine a constant instead of duplicating this literal 'AUTHORS*' 7 times.(ô∑Ω¨
+python:S1192!"gDefine a constant instead of duplicating this literal '`License field from the core metadata' 10 times.(ô∑Ω¨
+âpython:S1192!"qDefine a constant instead of duplicating this literal 'Should be a path (TODO: enforce it with format?)' 7 times.(ô∑Ω¨
+epython:S1192O"MDefine a constant instead of duplicating this literal " properties" 17 times.(ßπ£≤
+üpython:S1192!"ÜDefine a constant instead of duplicating this literal 'https://setuptools.pypa.io/en/latest/userguide/package_discovery.html' 6 times.(ô∑Ω¨
+°python:S1192!"àDefine a constant instead of duplicating this literal '`Project license <https://www.python.org/dev/peps/pep-0621/#license>`_.' 8 times.(ô∑Ω¨
+rpython:S1192!"ZDefine a constant instead of duplicating this literal '#/definitions/dependency' 28 times.(ô∑Ω¨
+bpython:S1192˙"IDefine a constant instead of duplicating this literal ".license" 3 times.(„Äπª
+ùpython:S1192!"ÑDefine a constant instead of duplicating this literal 'Restrict the found packages to just the ones listed in this field.' 13 times.(ô∑Ω¨
+xpython:S1192!"`Define a constant instead of duplicating this literal 'back-end, and running its hooks' 6 times.(ô∑Ω¨
+apython:S1192!"IDefine a constant instead of duplicating this literal 'Windows.' 4 times.(ô∑Ω¨
+§python:S1192!"ãDefine a constant instead of duplicating this literal 'MUST be a valid email name, i.e. whatever can be put as a name, before an' 17 times.(ô∑Ω¨
+âpython:S1192!"qDefine a constant instead of duplicating this literal 'Package metadata stored in the ``project`` table' 7 times.(ô∑Ω¨
+|python:S1192!"dDefine a constant instead of duplicating this literal '``text/markdown`` or ``text/x-rst``' 9 times.(ô∑Ω¨
+kpython:S1192!"SDefine a constant instead of duplicating this literal "'file:' directive" 42 times.(ô∑Ω¨
+épython:S1192!"vDefine a constant instead of duplicating this literal 'Mapping from package names to lists of glob patterns.' 8 times.(ô∑Ω¨
+¶python:S1192!"çDefine a constant instead of duplicating this literal 'Mapping from package names to lists of glob patterns that should be excluded' 8 times.(ô∑Ω¨
+•python:S1192!"åDefine a constant instead of duplicating this literal 'PROVISIONAL: List of glob patterns for all license files being distributed.' 6 times.(ô∑Ω¨
+ûpython:S1192!"ÖDefine a constant instead of duplicating this literal 'contain ``where``, ``include``, ``exclude`` and ``namespaces`` keys,' 6 times.(ô∑Ω¨
+Æpython:S1192!"ïDefine a constant instead of duplicating this literal 'that can currently be configured via ``setup.cfg`` and are not covered by :pep:`621`' 5 times.(ô∑Ω¨
+qpython:S1192!"YDefine a constant instead of duplicating this literal 'UTF-8 when not present.' 11 times.(ô∑Ω¨
+xpython:S1192ì"_Define a constant instead of duplicating this literal ".cmdclass.{data__cmdclass_key}" 4 times.(™È¥ö
+|python:S1192!"dDefine a constant instead of duplicating this literal 'dynamically provided by build tools' 8 times.(ô∑Ω¨
+rpython:S1192!"ZDefine a constant instead of duplicating this literal '``tool.setuptools`` table' 5 times.(ô∑Ω¨
+Öpython:S1192!"mDefine a constant instead of duplicating this literal 'Packages which this package renders obsolete' 6 times.(ô∑Ω¨
+python:S1192Ó"aDefine a constant instead of duplicating this literal ".py-modules[{data__pymodules_x}]" 4 times.(ÈÏ‰„˝ˇˇˇˇ
+qpython:S1192!"YDefine a constant instead of duplicating this literal 'According to :pep:`621`:' 8 times.(ô∑Ω¨
+}python:S1192!"eDefine a constant instead of duplicating this literal 'Optional dependency for the project' 10 times.(ô∑Ω¨
+õpython:S1192!"ÇDefine a constant instead of duplicating this literal '`Full/detailed description of the project in the form of a README' 8 times.(ô∑Ω¨
+npython:S1192:"QDefine a constant instead of duplicating this literal " must be string" 25 times.(ﬁ§¯Ÿ˘ˇˇˇˇ
+zpython:S1192!"bDefine a constant instead of duplicating this literal 'Project (mandatory) dependencies.' 8 times.(ô∑Ω¨
+†python:S1192!"áDefine a constant instead of duplicating this literal 'The empty string (as key) means that all packages are contained inside' 8 times.(ô∑Ω¨
+upython:S1192!"]Define a constant instead of duplicating this literal '(NOT CURRENTLY IMPLEMENTED).' 4 times.(ô∑Ω¨
+¶python:S1192!"çDefine a constant instead of duplicating this literal '`entry points <https://packaging.python.org/specifications/entry-points/>`_.' 8 times.(ô∑Ω¨
+ipython:S1192!"QDefine a constant instead of duplicating this literal " must be object" 10 times.(ô∑Ω¨
+ópython:S1192!"Define a constant instead of duplicating this literal '<https://packaging.python.org/specifications/entry-points/>`_' 21 times.(ô∑Ω¨
+ñpython:S1192!"~Define a constant instead of duplicating this literal 'Exclude packages that match the values listed in this field.' 13 times.(ô∑Ω¨
+}python:S1192œ"_Define a constant instead of duplicating this literal ".dynamic.optional-dependencies" 4 times.(Ö˜ÇÛ˛ˇˇˇˇ
+tpython:S1192!"\Define a constant instead of duplicating this literal 'Dynamic `package discovery' 12 times.(ô∑Ω¨
+upython:S1192É"WDefine a constant instead of duplicating this literal ".optional-dependencies" 4 times.(Ñπ˝œˇˇˇˇˇ
+ipython:S1192!"QDefine a constant instead of duplicating this literal 'of the project.' 12 times.(ô∑Ω¨
+öpython:S1192!"ÅDefine a constant instead of duplicating this literal 'URLs associated with the project in the form ``label => value``.' 9 times.(ô∑Ω¨
+kpython:S1192!"SDefine a constant instead of duplicating this literal 'code can be found.' 8 times.(ô∑Ω¨
+_python:S1192ò"FDefine a constant instead of duplicating this literal ".file" 3 times.(˝ù∆ﬂ
+Öpython:S1192!"mDefine a constant instead of duplicating this literal 'It considers only ``setuptools`` `parameters' 5 times.(ô∑Ω¨
+âpython:S1192!"qDefine a constant instead of duplicating this literal 'TODO: clarify the relationship with ``packages``' 6 times.(ô∑Ω¨
+|python:S1192É"^Define a constant instead of duplicating this literal ".provides[{data__provides_x}]" 4 times.(«öóñ˛ˇˇˇˇ
+|python:S1192!"dDefine a constant instead of duplicating this literal 'Array of Python package identifiers' 7 times.(ô∑Ω¨
+npython:S1192…"PDefine a constant instead of duplicating this literal " matches found)" 8 times.(∞–´ß¯ˇˇˇˇ
+úpython:S1192!"ÉDefine a constant instead of duplicating this literal 'A version dynamically loaded via either the ``attr:`` or ``file:``' 8 times.(ô∑Ω¨
+vpython:S1192!"^Define a constant instead of duplicating this literal '#/definitions/file-directive' 63 times.(ô∑Ω¨
+Äpython:S1192!"hDefine a constant instead of duplicating this literal 'Modules that setuptools will manipulate' 6 times.(ô∑Ω¨
+©python:S1192!"êDefine a constant instead of duplicating this literal '`ini2toml <https://ini2toml.readthedocs.io/en/latest/setuptools_pep621.html>`_.' 5 times.(ô∑Ω¨
+npython:S1192!"VDefine a constant instead of duplicating this literal '#/definitions/author' 24 times.(ô∑Ω¨
+Mpython:S1066’"/Merge this if statement with the enclosing one.(› ∑≤˚ˇˇˇˇ
+;python:S125"Remove this commented out code.(ÆÜÑ¢˚ˇˇˇˇ
+rpython:S3776"URefactor this function to reduce its Cognitive Complexity from 139 to the 15 allowed.(¥«–ì¸ˇˇˇˇ
+npython:S3776h"VRefactor this function to reduce its Cognitive Complexity from 1052 to the 15 allowed.(·õÃì
+mpython:S3776à"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(—Ë∂÷
+Opython:S1172≠"6Remove the unused function parameter "custom_formats".(ı˝ ∂
+Jpython:S1481≤",Remove the unused local variable "data_len".(≤—îå˘ˇˇˇˇ
+mpython:S3776≠"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ı˝ ∂
+npython:S3776ø"URefactor this function to reduce its Cognitive Complexity from 128 to the 15 allowed.(Ú∑ﬂ∞
+mpython:S3776˘"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ú·◊„
+spython:S3776å"URefactor this function to reduce its Cognitive Complexity from 653 to the 15 allowed.(ñÉî ˙ˇˇˇˇ
+rpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(Êœﬂ¬ˇˇˇˇˇ
+Opython:S1172¯"6Remove the unused function parameter "custom_formats".(…óˇ—
+mpython:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(…óˇ—

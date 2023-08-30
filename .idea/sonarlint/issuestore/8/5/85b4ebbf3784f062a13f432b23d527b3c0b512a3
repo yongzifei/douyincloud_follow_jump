@@ -1,0 +1,5 @@
+
+€python:S101l"dRename class "GEOSGeom_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(àÄßœùÿÿÿÿ
+python:S101p"hRename class "GEOSPrepGeom_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ü²õ®
+„python:S101t"hRename class "GEOSCoordSeq_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÖÚõñûÿÿÿÿ
+„python:S101x"mRename class "GEOSContextHandle_t" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(á«ÄŠ

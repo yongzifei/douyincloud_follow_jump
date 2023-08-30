@@ -1,0 +1,22 @@
+
+apython:S1192†"HDefine a constant instead of duplicating this literal '%s.data' 3 times.(ÖÛ¤¢
+dpython:S1192ø"FDefine a constant instead of duplicating this literal '%s-%s' 7 times.(Ïù„ÿÿÿÿÿ
+fpython:S1192ù"MDefine a constant instead of duplicating this literal '%s.dist-info' 7 times.(ü³Ñ±
+Mpython:S1066±"/Merge this if statement with the enclosing one.(Ó°û¡ıÿÿÿÿ
+qpython:S3776;"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‘Ñ¬‚ıÿÿÿÿ
+qpython:S5843O"TSimplify this regular expression to reduce its complexity from 23 to the 20 allowed.(â½Œ‰üÿÿÿÿ
+Jpython:S1172",Remove the unused function parameter "path".(Ì¡‡¥ûÿÿÿÿ
+Npython:S1481ş"0Remove the unused local variable "file_version".(ÿ§úñøÿÿÿÿ
+rpython:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŞÓÍûÿÿÿÿ
+Lpython:S1172Õ".Remove the unused function parameter "libdir".(Šû²äùÿÿÿÿ
+Hpython:S1481Ø"*Remove the unused local variable "hasher".(ß€™§ıÿÿÿÿ
+mpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(¿éµ¢
+spython:S3776ï"URefactor this function to reduce its Cognitive Complexity from 109 to the 15 allowed.(¿ì×”ÿÿÿÿÿ
+Jpython:S1481º"1Remove the unused local variable "metadata_name".(¨ƒÍ
+Npython:S1481Å"0Remove the unused local variable "file_version".(ÿ§úñøÿÿÿÿ
+Epython:S1481·",Remove the unused local variable "data_dir".(ÖÛ¤¢
+rpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜÒ¡Òøÿÿÿÿ
+Rpython:S1135Æ"4Complete the task associated to this "TODO" comment.(…×îûÿÿÿÿ
+rpython:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(óş¾¡úÿÿÿÿ
+Cpython:S1481Š"%Remove the unused local variable "v".(¦ÁÉ¤ÿÿÿÿÿ
+mpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(Ã¶ÿ‚

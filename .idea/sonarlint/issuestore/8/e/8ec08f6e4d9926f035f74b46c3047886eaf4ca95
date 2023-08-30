@@ -1,0 +1,6 @@
+
+Gpython:S1940õ")Use the opposite operator (">=") instead.(ôÅªóùÿÿÿÿ
+Gpython:S1940")Use the opposite operator ("<=") instead.(è¡ìïùÿÿÿÿ
+Ypython:S6353Æ";Use concise character class syntax '\d' instead of '[0-9]'.(ÖŸ®êøÿÿÿÿ
+Ypython:S6353Æ";Use concise character class syntax '\d' instead of '[0-9]'.(ÖŸ®êøÿÿÿÿ
+rpython:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ü¶Äÿÿÿÿÿ

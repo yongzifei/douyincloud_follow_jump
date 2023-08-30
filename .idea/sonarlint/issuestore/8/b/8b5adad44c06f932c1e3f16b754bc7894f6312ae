@@ -1,0 +1,4 @@
+
+wpython:S117"`Rename this local variable "DatabaseWrapper" to match the regular expression ^[_a-z][a-z0-9_]*$.(á…—Æ
+lpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 64 to the 15 allowed.(±ùìõ
+mpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(¸ÊëÇ

@@ -1,0 +1,22 @@
+
+Mpython:S1066·"/Merge this if statement with the enclosing one.(ı¼®“úÿÿÿÿ
+wpython:S117["[Rename this local variable "indexRange" to match the regular expression ^[_a-z][a-z0-9_]*$.(³’ºõúÿÿÿÿ
+ppython:S117`"YRename this local variable "newItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿°³•
+npython:S117_"WRename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¨É
+tpython:S117X"XRename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô¿Ì˜úÿÿÿÿ
+Cpython:S1481‹"%Remove the unused local variable "i".(¼¼Àïıÿÿÿÿ
+lpython:S117Ü"TRename this parameter "newItems" to match the regular expression ^[_a-z][a-z0-9_]*$.(åï›î
+jpython:S117Ü"RRename this parameter "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(åï›î
+upython:S117ı"XRename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô¿Ì˜úÿÿÿÿ
+rpython:S117÷"ZRename this local variable "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç²ü•
+wpython:S117‰"ZRename this local variable "indexList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬µ¹ºùÿÿÿÿ
+opython:S117’"WRename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤‘÷ù
+upython:S117“"XRename this local variable "newVals" to match the regular expression ^[_a-z][a-z0-9_]*$.(•«öüÿÿÿÿ
+mpython:S117‡"URename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Óí€
+lpython:S1542•"NRename function "newItems" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛÑê¶øÿÿÿÿ
+wpython:S117 "ZRename this local variable "indexList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬µ¹ºùÿÿÿÿ
+rpython:S117"URename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.(öÕÉ·øÿÿÿÿ
+tpython:S117¯"WRename this local variable "newLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ÊüÒùÿÿÿÿ
+upython:S117­"XRename this local variable "origLen" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô¿Ì˜úÿÿÿÿ
+rpython:S117«"URename this parameter "valueList" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ¿§üÿÿÿÿ
+lpython:S1542±"NRename function "newItems" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛÑê¶øÿÿÿÿ

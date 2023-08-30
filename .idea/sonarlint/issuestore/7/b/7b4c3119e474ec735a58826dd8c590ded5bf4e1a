@@ -1,0 +1,16 @@
+
+rpython:S1186†"YAdd a nested comment explaining why this method is empty, or complete the implementation.(•û¿
+Jpython:S1172Î",Remove the unused function parameter "test".(§®Áğùÿÿÿÿ
+Ipython:S1172Î"+Remove the unused function parameter "err".(§®Áğùÿÿÿÿ
+Ipython:S5806¸"+Rename this variable; it shadows a builtin.(’Üê¬şÿÿÿÿ
+opython:S2638ã"QAdd missing parameters debug. This method overrides unittest.suite.TestSuite.run.(ÜèÃşÿÿÿÿ
+jpython:S107õ"MMethod "__init__" has 20 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+Lpython:S1172«".Remove the unused function parameter "kwargs".( ÜœÑÿÿÿÿÿ
+Lpython:S1172å".Remove the unused function parameter "kwargs".(«ª·Äùÿÿÿÿ
+gpython:S1226È"NIntroduce a new variable or use its initial value before reassigning 'kwargs'.(´¶ó¿
+Lpython:S1172Ò".Remove the unused function parameter "kwargs".(ğßö©üÿÿÿÿ
+Gpython:S1172Û".Remove the unused function parameter "kwargs".(™çĞ
+Kpython:S1172ß"-Remove the unused function parameter "suite".(ß«Éîúÿÿÿÿ
+Lpython:S1172ß".Remove the unused function parameter "kwargs".(ß«Éîúÿÿÿÿ
+Fpython:S1172ı".Remove the unused function parameter "kwargs".(ˆ›…/
+=python:S1481“	"%Remove the unused local variable "i".(¬ÃÀ)

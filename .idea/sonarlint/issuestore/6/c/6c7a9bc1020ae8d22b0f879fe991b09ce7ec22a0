@@ -1,0 +1,10 @@
+
+Tpython:S6353¤";Use concise character class syntax '\d' instead of '[0-9]'.(âÛ‹
+‹python:S5886Ä"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(¨¶ß³
+python:S5886Å"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(¤›õÁúÿÿÿÿ
+Špython:S5886Æ"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(´÷w
+‹python:S5886Ç"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ÇÔ³ä
+mpython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(›®Ç
+mpython:S3776â"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‹¾È
+python:S1871ï"cEither merge this branch with the identical one on line "489" or change one of the implementations.(´§ùÿÿÿÿ
+mpython:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(‚¥’¿

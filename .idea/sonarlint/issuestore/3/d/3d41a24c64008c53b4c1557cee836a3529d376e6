@@ -1,0 +1,6 @@
+
+Mpython:S1066Ñ"/Merge this if statement with the enclosing one.(ªþÝ…ýÿÿÿÿ
+ipython:S107?"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( Ðàþüÿÿÿÿ
+ipython:S107f"MMethod "add_item" has 16 parameters, which is greater than the 13 authorized.( Ðàþüÿÿÿÿ
+Epython:S1172¨",Remove the unused function parameter "item".(ë°øÍ
+lpython:S100½"ORename method "writeString" to match the regular expression ^[a-z_][a-z0-9_]*$.(· ûÅüÿÿÿÿ

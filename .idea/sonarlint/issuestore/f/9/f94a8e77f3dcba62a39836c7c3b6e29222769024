@@ -1,0 +1,15 @@
+
+dpython:S1192»"FDefine a constant instead of duplicating this literal '#push' 6 times.(Ê¤Œçþÿÿÿÿ
+Tpython:S5720|"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜
+rpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÖÖžÜþÿÿÿÿ
+Dpython:S1172ž"+Remove the unused function parameter "arg".(çµÖ›
+Ipython:S1172¡"+Remove the unused function parameter "arg".(ºô¬Èøÿÿÿÿ
+rpython:S3776°"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(®ÿ÷…øÿÿÿÿ
+rpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(˜ÙÀƒûÿÿÿÿ
+Dpython:S1172§"+Remove the unused function parameter "cls".(¥”­Â
+Fpython:S1172§"-Remove the unused function parameter "state".(¥”­Â
+Dpython:S1172­"+Remove the unused function parameter "cls".(€ÛªŒ
+lpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(žùóa
+mpython:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(ƒáÈù
+mpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(ö©Óñ
+lpython:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ºêÀ2

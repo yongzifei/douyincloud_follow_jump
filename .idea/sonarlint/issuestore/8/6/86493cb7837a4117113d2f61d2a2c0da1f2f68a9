@@ -1,0 +1,7 @@
+
+fpython:S1192‘"HDefine a constant instead of duplicating this literal '/nologo' 4 times.(ΫΑε“όÿÿÿÿ
+Npython:S1172v"1Remove the unused function parameter "plat_spec".(¬γ΅δωÿÿÿÿ
+`python:S5799€"GMerge these implicitly concatenated strings; or did you forget a comma?(Φ°Εµ
+rpython:S3776Λ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ύ£Έÿÿÿÿÿ
+ppython:S1226Ν"RIntroduce a new variable or use its initial value before reassigning 'build_temp'.(Σθωÿÿÿÿ
+Spython:S2836Ί"5Add a "break" statement or remove this "else" clause.(³£‰ψÿÿÿÿ

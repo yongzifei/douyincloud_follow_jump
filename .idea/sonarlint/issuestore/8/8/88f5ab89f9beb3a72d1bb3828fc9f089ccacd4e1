@@ -1,0 +1,5 @@
+
+qpython:S1192["TDefine a constant instead of duplicating this literal "LIKE %s ESCAPE '\\'" 7 times.(¹Ÿ¿§şÿÿÿÿ
+jpython:S1192L"RDefine a constant instead of duplicating this literal '"%(column)s" >= 0' 3 times.(ù§‰
+ppython:S11923"XDefine a constant instead of duplicating this literal "varchar(%(max_length)s)" 4 times.(©Ò®»
+mpython:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(øÙÒ

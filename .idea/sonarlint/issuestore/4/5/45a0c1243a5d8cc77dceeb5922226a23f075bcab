@@ -1,0 +1,21 @@
+
+lpython:S1192·"NDefine a constant instead of duplicating this literal r'[^\\\'"%\n]+' 3 times.(—¼­¾øÿÿÿÿ
+lpython:S1192Â"NDefine a constant instead of duplicating this literal r'[a-zA-Z_]\w*' 7 times.(§Ù›úÿÿÿÿ
+ipython:S1192Ğ"KDefine a constant instead of duplicating this literal 'yield from' 3 times.(Şğäöùÿÿÿÿ
+ˆpython:S1192à"pDefine a constant instead of duplicating this literal r'\\([\\abfnrtv"\']|\n|N\{.*?\}|u[a-fA-F0-9]{4}|' 3 times.(º¹Ö
+cpython:S1192­"JDefine a constant instead of duplicating this literal r'[^\S\n]+' 3 times.(ùû†š
+mpython:S1192ö"ODefine a constant instead of duplicating this literal r"\\\\|\\'|\\\n" 4 times.(ÍŸä–şÿÿÿÿ
+opython:S1192±"VDefine a constant instead of duplicating this literal r'(in|is|and|or|not)\b' 3 times.(§ÖÛ¥
+hpython:S1192ñ"ODefine a constant instead of duplicating this literal r'\\\\|\\"|\\\n' 4 times.(»©›¦
+fpython:S1192Q"IDefine a constant instead of duplicating this literal r'[\'"\\]' 5 times.(îí¡øÿÿÿÿ
+gpython:S1192ö"IDefine a constant instead of duplicating this literal r'(?<!\.)' 8 times.(ëÕœ±üÿÿÿÿ
+kpython:S1192°"MDefine a constant instead of duplicating this literal r'[]{}:(),;[]' 3 times.(³Œ¯¾ûÿÿÿÿ
+Vpython:S5857"9Replace this use of a reluctant quantifier with "[^\n]*".(ŞÌ¹‹úÿÿÿÿ
+Upython:S5720™"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜
+Upython:S5720û"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜
+ppython:S5799à"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹Ö
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ô“í‡ùÿÿÿÿ
+Cpython:S6326À"%Replace spaces with quantifier `{2}`.(êŒ±‚ûÿÿÿÿ
+ppython:S5799Ì"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹Ö
+ppython:S5799º"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹Ö
+Upython:S5720°	"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜

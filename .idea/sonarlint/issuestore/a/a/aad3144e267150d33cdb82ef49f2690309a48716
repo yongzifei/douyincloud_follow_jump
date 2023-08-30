@@ -1,0 +1,6 @@
+
+Kpython:S1172".Remove the unused function parameter "kwargs".(¬Ÿúîýÿÿÿÿ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬Ÿúîýÿÿÿÿ
+Kpython:S1172k".Remove the unused function parameter "kwargs".(„É¡¤üÿÿÿÿ
+wpython:S117s"[Rename this local variable "Permission" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖÅÓŒüÿÿÿÿ
+qpython:S3776k"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(„É¡¤üÿÿÿÿ

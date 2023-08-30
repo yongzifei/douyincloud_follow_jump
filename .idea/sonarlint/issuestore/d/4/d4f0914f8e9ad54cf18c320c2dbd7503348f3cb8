@@ -1,0 +1,23 @@
+
+ipython:S107{"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+qpython:S3776z"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ú„Úüùÿÿÿÿ
+Xpython:S930…"@Add 1 missing arguments; 'items' expects 1 positional arguments.(ÙÒÚ
+spython:S3776›"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(‚¸İÆıÿÿÿÿ
+rpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(˜óÑ§ıÿÿÿÿ
+‹python:S5886’"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Ò‹‹È
+python:S5886“"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ÅÎèÑÿÿÿÿÿ
+‹python:S5886”"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(â™ò“
+‹python:S5886•"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ç¬ Ø
+python:S5886–"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(•†”‡ÿÿÿÿÿ
+python:S5886—"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(«Õ•Öúÿÿÿÿ
+python:S5886˜"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(‚½½øıÿÿÿÿ
+python:S5886™"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ğáû ıÿÿÿÿ
+‹python:S5886š"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Ğ¢ïĞ
+python:S5886›"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(¶»ÔØûÿÿÿÿ
+‹python:S5886œ"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Ûüö—
+‹python:S5886"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(‹¥Ò×
+python:S5886"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ËšÅ‘ûÿÿÿÿ
+python:S5886Ÿ"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Õ€Àíûÿÿÿÿ
+‹python:S5886 "rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Àê› 
+python:S5886¢"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Öã¸×ûÿÿÿÿ
+rpython:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(øİÒıÿÿÿÿ

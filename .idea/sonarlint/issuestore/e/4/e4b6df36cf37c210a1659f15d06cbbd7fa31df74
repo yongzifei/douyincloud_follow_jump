@@ -1,0 +1,11 @@
+
+Qpython:S1172¼"3Remove the unused function parameter "spec_prefix".(ÿô·äÿÿÿÿÿ
+Spython:S1172¼"5Remove the unused function parameter "plat_specific".(ÿô·äÿÿÿÿÿ
+Rpython:S1172É"4Remove the unused function parameter "early_prefix".(¤‚À·ıÿÿÿÿ
+Lpython:S1172É".Remove the unused function parameter "prefix".(¤‚À·ıÿÿÿÿ
+mpython:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÏÎë²
+rpython:S3776†"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(­âúúÿÿÿÿ
+Zpython:S6353ÿ"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(«—àE
+Ypython:S6353€"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(öÜ]
+[python:S6353"BUse concise character class syntax '\w' instead of '[A-Za-z0-9_]'.(ŞÅì…
+rpython:S3776„"TRefactor this function to reduce its Cognitive Complexity from 73 to the 15 allowed.(Ääÿšúÿÿÿÿ

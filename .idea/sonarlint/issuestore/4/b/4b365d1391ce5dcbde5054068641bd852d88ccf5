@@ -1,0 +1,5 @@
+
+Cpython:S5806R"+Rename this variable; it shadows a builtin.(€¢Öù
+lpython:S3776l"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(®èå„
+epython:S5799¦"GMerge these implicitly concatenated strings; or did you forget a comma?(™Âû“øÿÿÿÿ
+epython:S5799À"GMerge these implicitly concatenated strings; or did you forget a comma?(‘«±Ûýÿÿÿÿ

@@ -1,0 +1,5 @@
+
+|python:S101"fRename class "WKTReader_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·Ï½
+}python:S101"fRename class "WKTWriter_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¥¢ÐÎ
+‚python:S101"fRename class "WKBReader_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·Ñ‘æþÿÿÿÿ
+‚python:S101 "fRename class "WKBWriter_st" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ˆ€Äóùÿÿÿÿ

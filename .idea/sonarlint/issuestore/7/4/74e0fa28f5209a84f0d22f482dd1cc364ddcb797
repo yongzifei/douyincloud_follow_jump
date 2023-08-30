@@ -1,0 +1,8 @@
+
+kpython:S3776("TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(—Ç¬z
+‹python:S5886M"sRemove this yield statement or annotate function "auto_rich_repr" with "typing.Generator" or one of its supertypes.(¤ïö¬
+python:S5886S"sRemove this yield statement or annotate function "auto_rich_repr" with "typing.Generator" or one of its supertypes.(ìÄñøÿÿÿÿ
+‹python:S5886U"sRemove this yield statement or annotate function "auto_rich_repr" with "typing.Generator" or one of its supertypes.(··–
+python:S5886ƒ"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Ü—ó—ùÿÿÿÿ
+‹python:S5886„"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(¢›Ú 
+‹python:S5886…"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ş—Ë‡

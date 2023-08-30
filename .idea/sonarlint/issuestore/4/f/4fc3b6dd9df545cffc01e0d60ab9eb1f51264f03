@@ -1,0 +1,6 @@
+
+apython:S1192å"IDefine a constant instead of duplicating this literal "failure." 3 times.(Ò¤ý6
+apython:S1192å"IDefine a constant instead of duplicating this literal "success!" 3 times.(Ò¤ý6
+Mpython:S1172â"4Remove the unused function parameter "library_dirs".(Šü’Ò
+Epython:S1172â",Remove the unused function parameter "lang".(Šü’Ò
+Ipython:S5806õ"+Rename this variable; it shadows a builtin.(Ÿ§ãòûÿÿÿÿ

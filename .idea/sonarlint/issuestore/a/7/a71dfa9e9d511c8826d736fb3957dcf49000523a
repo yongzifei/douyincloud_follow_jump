@@ -1,0 +1,4 @@
+
+zpython:S5886»"aReturn a value of type "list[JsonType]" instead of "NoneType" or update function "get" type hint.(Ú§ü˘
+Vpython:S112Û">Replace this generic exception class with a more specific one.(íã‚±
+Çpython:S5886∫"iReturn a value of type "list[dict[str, bool]]" instead of "dict" or update function "set_path" type hint.(ÅÈ∑ﬁ

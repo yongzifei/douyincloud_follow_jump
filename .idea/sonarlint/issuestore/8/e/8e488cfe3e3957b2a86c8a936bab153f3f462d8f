@@ -1,0 +1,12 @@
+
+opython:S1192È"QDefine a constant instead of duplicating this literal "a list or tuple" 17 times.(™çµèÿÿÿÿÿ
+dpython:S1192¢"KDefine a constant instead of duplicating this literal "an integer" 5 times.(é£ñà
+fpython:S1192û"MDefine a constant instead of duplicating this literal "a dictionary" 3 times.(ÕÕ´å
+Kpython:S1172.".Remove the unused function parameter "kwargs".(±´Şøÿÿÿÿ
+Kpython:S11727".Remove the unused function parameter "kwargs".(ñµÅÿÿÿÿÿ
+qpython:S37767"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ñµÅÿÿÿÿÿ
+Gpython:S1172±".Remove the unused function parameter "kwargs".(…“ÁÏ
+<python:S125±"Remove this commented out code.(ÿ“Ãùÿÿÿÿ
+rpython:S3776À"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Âß®ÿÿÿÿÿ
+Fpython:S1172É"-Remove the unused function parameter "label".(³å™€
+python:S1871‚"cEither merge this branch with the identical one on line "896" or change one of the implementations.(¡’Ìïşÿÿÿÿ

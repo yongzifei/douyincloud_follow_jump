@@ -1,0 +1,31 @@
+
+Epython:S1172="-Remove the unused function parameter "table".(Â¥¶½
+Fpython:S1172=".Remove the unused function parameter "column".(Â¥¶½
+Fpython:S1172F".Remove the unused function parameter "fields".(œÙ×ß
+Qpython:S1172_"4Remove the unused function parameter "output_field".(êÙıàşÿÿÿÿ
+Gpython:S1172Â".Remove the unused function parameter "params".(ÜÊ£ö
+Qpython:S1172Ï"8Remove the unused function parameter "returning_params".(¨·’™
+Npython:S1172Ö"5Remove the unused function parameter "internal_type".(º®“÷
+Hpython:S1172Ö"/Remove the unused function parameter "db_type".(º®“÷
+Lpython:S1172…".Remove the unused function parameter "cursor".(ãÅï¾úÿÿÿÿ
+Kpython:S1172œ"2Remove the unused function parameter "table_name".(Ô‡
+Hpython:S1172œ"/Remove the unused function parameter "pk_name".(Ô‡
+Lpython:S1172¥"3Remove the unused function parameter "lookup_type".(‹˜®
+Npython:S1172¥"5Remove the unused function parameter "internal_type".(‹˜®
+Jpython:S1172Ã"1Remove the unused function parameter "sequences".(ºÊ¼
+Fpython:S1172Ã"-Remove the unused function parameter "style".(ºÊ¼
+Kpython:S1172Í"2Remove the unused function parameter "model_list".(´â®·
+Fpython:S1172Í"-Remove the unused function parameter "style".(´â®·
+Fpython:S1172á".Remove the unused function parameter "inline".(ç²„5
+Jpython:S1172á"2Remove the unused function parameter "tablespace".(ç²„5
+Ppython:S1172ğ"2Remove the unused function parameter "expression".(ïøÙƒûÿÿÿÿ
+Kpython:S1172ù"2Remove the unused function parameter "expression".(¯òç›
+Kpython:S1172ù"2Remove the unused function parameter "connection".(¯òç›
+Ppython:S1172ˆ"2Remove the unused function parameter "expression".(îñ˜¯üÿÿÿÿ
+Kpython:S1172œ"-Remove the unused function parameter "value".(èÊùúÿÿÿÿ
+Qpython:S1172£"3Remove the unused function parameter "placeholder".(óÛôÇúÿÿÿÿ
+Lpython:S1172ş"3Remove the unused function parameter "on_conflict".(ÀÔç¡
+Npython:S1172"5Remove the unused function parameter "unique_fields".(é‘à€
+Gpython:S1172".Remove the unused function parameter "fields".(é‘à€
+Lpython:S1172"3Remove the unused function parameter "on_conflict".(é‘à€
+Npython:S1172"5Remove the unused function parameter "update_fields".(é‘à€

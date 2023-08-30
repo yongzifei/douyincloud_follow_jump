@@ -1,0 +1,22 @@
+
+epython:S1192¤"GDefine a constant instead of duplicating this literal "{}({})" 4 times.(íµ¢…şÿÿÿÿ
+dpython:S1192…"KDefine a constant instead of duplicating this literal "{}({}, {})" 3 times.(´‡Ş–
+ python:S1192d"‡Define a constant instead of duplicating this literal "Use .bitand(), .bitor(), and .bitxor() for bitwise logical operations." 6 times.(ã—‚
+{python:S1845g"cRename method "bitand" to prevent any misunderstanding/clash with field "BITAND" defined on line 56(•—ï
+‡python:S1845j"oRename method "bitleftshift" to prevent any misunderstanding/clash with field "BITLEFTSHIFT" defined on line 58(‚Õ¸±
+‰python:S1845m"qRename method "bitrightshift" to prevent any misunderstanding/clash with field "BITRIGHTSHIFT" defined on line 59(–ÀÍÅ
+{python:S1845w"cRename method "bitxor" to prevent any misunderstanding/clash with field "BITXOR" defined on line 60(´š º
+zpython:S1845"aRename method "bitor" to prevent any misunderstanding/clash with field "BITOR" defined on line 57(±±¾İ
+Xpython:S5712c"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Xpython:S5712s"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Xpython:S5712}"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Ypython:S5712—"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Ypython:S5712œ"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Ypython:S5712¡"@Return "NotImplemented" instead of raising "NotImplementedError"(ÿ¤£Ç
+Ipython:S1172€"0Remove the unused function parameter "for_save".(Í›´™
+Fpython:S1172¡"-Remove the unused function parameter "alias".(ç¯Ñö
+Ipython:S1172§"0Remove the unused function parameter "for_save".(Í›´™
+jpython:S1134Í"LTake the required action to fix the issue indicated by this "FIXME" comment.(Éù²âûÿÿÿÿ
+Ipython:S1172Ó"0Remove the unused function parameter "relabels".(Î¡ªÅ
+Fpython:S1172Ö"-Remove the unused function parameter "alias".(ç¯Ñö
+Ipython:S1172â"0Remove the unused function parameter "relabels".(Î¡ªÅ

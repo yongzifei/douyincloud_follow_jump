@@ -1,0 +1,11 @@
+
+kpython:S116ò"NRename this field "asList" to match the regular expression ^[_a-z][_a-z0-9]*$.(°à™Ùþÿÿÿÿ
+gpython:S116ô"ORename this field "getName" to match the regular expression ^[_a-z][_a-z0-9]*$.(û°Æ€
+fpython:S116ó"NRename this field "asDict" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œ¨ìî
+jpython:S117 "RRename this parameter "asList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïŽÁª
+rpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ú„Úüùÿÿÿÿ
+mpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(§ó¼„
+_python:S2761õ"AUse the "bool()" builtin function instead of calling "not" twice.(¸ŽÊºøÿÿÿÿ
+npython:S100Ù"QRename method "_asStringList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Àéöôþÿÿÿÿ
+rpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(àÏÖåúÿÿÿÿ
+zpython:S117Ë"]Rename this local variable "inAccumNames" to match the regular expression ^[_a-z][a-z0-9_]*$.(•Œ¢ñüÿÿÿÿ

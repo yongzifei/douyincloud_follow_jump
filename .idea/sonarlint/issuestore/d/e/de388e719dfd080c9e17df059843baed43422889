@@ -1,0 +1,8 @@
+
+dpython:S1192·"FDefine a constant instead of duplicating this literal "id_%s" 3 times.(«‘½ÿÿÿÿÿ
+mpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ı„§ó
+Kpython:S1172¤"-Remove the unused function parameter "files".(äó°µúÿÿÿÿ
+Fpython:S1172«"-Remove the unused function parameter "files".(¤¼è´
+Mpython:S1172º"/Remove the unused function parameter "initial".(ßÁ½ûÿÿÿÿ
+6python:S3626¦"Remove this redundant return.(ÙãŞŸ
+Bpython:S1940")Use the opposite operator ("!=") instead.(¸ğäá

@@ -1,0 +1,4 @@
+
+kpython:S1192‚"RDefine a constant instead of duplicating this literal "`%(column)s` >= 0" 3 times.(èí¾Ë
+ppython:S1192o"XDefine a constant instead of duplicating this literal "varchar(%(max_length)s)" 4 times.(©Ò®»
+Vpython:S112¯">Replace this generic exception class with a more specific one.(’‹â±

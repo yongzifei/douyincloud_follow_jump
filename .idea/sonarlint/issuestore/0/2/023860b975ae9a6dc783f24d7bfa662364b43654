@@ -1,0 +1,4 @@
+
+lpython:S3776""TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(“ÛŠ£
+Cpython:S5806,"+Rename this variable; it shadows a builtin.(¤ØóŽ
+@python:S108D")Either remove or fill this block of code.(ã‘Û¾

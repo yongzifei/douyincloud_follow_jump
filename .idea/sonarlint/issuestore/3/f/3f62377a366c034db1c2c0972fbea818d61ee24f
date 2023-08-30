@@ -1,0 +1,20 @@
+
+rpython:S1192Ä"TDefine a constant instead of duplicating this literal 'typing_extensions.' 11 times.(˜¯µõúÿÿÿÿ
+Mpython:S1066Ş"/Merge this if statement with the enclosing one.(¦àåùÿÿÿÿ
+epython:S1542€"LRename function "IntVar" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê”ö§
+hpython:S1854¼"JRemove this assignment to local variable 'gvars'; the value is never used.(¦±‘ñşÿÿÿÿ
+mpython:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(…ï‰„
+Apython:S1940À"(Use the opposite operator (">") instead.(Úæ›²
+rpython:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(´ÃÎ½øÿÿÿÿ
+mpython:S1542à"ORename function "TypeAlias" to match the regular expression ^[a-z_][a-z0-9_]*$.(œƒÒ·üÿÿÿÿ
+opython:S1542œ"QRename function "Concatenate" to match the regular expression ^[a-z_][a-z0-9_]*$.(âİß“øÿÿÿÿ
+mpython:S1542È"ORename function "TypeGuard" to match the regular expression ^[a-z_][a-z0-9_]*$.(İ€Ô„ıÿÿÿÿ
+qpython:S1542ß"SRename function "LiteralString" to match the regular expression ^[a-z_][a-z0-9_]*$.(Üï¬üıÿÿÿÿ
+hpython:S1542ö"JRename function "Self" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ãì‚ğÿÿÿÿÿ
+ipython:S1542‹"KRename function "Never" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜€·úÿÿÿÿ
+lpython:S1542®"NRename function "Required" to match the regular expression ^[a-z_][a-z0-9_]*$.(×©ËŠıÿÿÿÿ
+ipython:S1542Â"QRename function "NotRequired" to match the regular expression ^[a-z_][a-z0-9_]*$.(òà­!
+jpython:S1542ˆ"LRename function "Unpack" to match the regular expression ^[a-z_][a-z0-9_]*$.(«áğúúÿÿÿÿ
+opython:S2710–"QRename "self" to a valid class parameter name or add the missing class parameter.(”¸®šıÿÿÿÿ
+mpython:S3776è"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(•€êÂ
+ipython:S1542Œ"PRename function "NamedTuple" to match the regular expression ^[a-z_][a-z0-9_]*$.(åŠĞŒ

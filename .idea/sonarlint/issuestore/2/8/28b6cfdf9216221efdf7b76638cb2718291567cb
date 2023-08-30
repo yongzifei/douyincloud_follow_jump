@@ -1,0 +1,24 @@
+
+wpython:S1192ò"_Define a constant instead of duplicating this literal "_fk_%(to_table)s_%(to_column)s" 3 times.(ÉÖçs
+rpython:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(†…èÿÿÿÿÿ
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‡’æ
+Fpython:S1172ï"-Remove the unused function parameter "field".(ØÓŞ½
+Kpython:S1172ö"-Remove the unused function parameter "field".(øóñûÿÿÿÿÿ
+Kpython:S1172†"-Remove the unused function parameter "field".(óıÎ¯øÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(„×ÒÉùÿÿÿÿ
+Kpython:S1172Õ"-Remove the unused function parameter "model".(Îü¸ûÿÿÿÿ
+lpython:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ìœ…
+spython:S3776"URefactor this function to reduce its Cognitive Complexity from 100 to the 15 allowed.(Ö­Êşÿÿÿÿ
+Ipython:S1172ö"1Remove the unused function parameter "old_field".(õúã3
+Epython:S1172ö"-Remove the unused function parameter "model".(õúã3
+Opython:S1172“	"1Remove the unused function parameter "old_field".(³ûÿÿÿÿÿÿ
+Kpython:S1172“	"-Remove the unused function parameter "model".(³ûÿÿÿÿÿÿ
+Ipython:S1172¹	"1Remove the unused function parameter "old_field".(ê¢ôv
+Epython:S1172¹	"-Remove the unused function parameter "model".(ê¢ôv
+Kpython:S1172Ï	"-Remove the unused function parameter "model".(‰ƒ»Šøÿÿÿÿ
+Lpython:S1172Ü	".Remove the unused function parameter "strict".(¿ÅğÍşÿÿÿÿ
+Kpython:S1172Ü	"-Remove the unused function parameter "model".(¿ÅğÍşÿÿÿÿ
+Ipython:S1172ú
+"1Remove the unused function parameter "opclasses".(ƒ›z
+Kpython:S1172¬"-Remove the unused function parameter "model".(ìñ­ ùÿÿÿÿ
+mpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(öâàÁ

@@ -1,0 +1,5 @@
+
+upython:S117+"^Rename this local variable "SpatialRefSys" to match the regular expression ^[_a-z][a-z0-9_]*$.(…À¼
+Upython:S112(">Replace this generic exception class with a more specific one.(ãññš
+Zpython:S112*">Replace this generic exception class with a more specific one.(èÍ­ýÿÿÿÿ
+Upython:S1123">Replace this generic exception class with a more specific one.(’‹â±

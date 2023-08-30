@@ -1,0 +1,3 @@
+
+qpython:S117"YRename this local variable "attrName" to match the regular expression ^[_a-z][a-z0-9_]*$.(สูโ
+rpython:S117"ZRename this local variable "attrValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(สูโ

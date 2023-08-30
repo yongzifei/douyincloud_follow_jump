@@ -1,0 +1,12 @@
+
+python:S5886\"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Üÿ‹Üùÿÿÿÿ
+python:S5886_"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ºı¥Éûÿÿÿÿ
+python:S5886a"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(ºı¥Éûÿÿÿÿ
+python:S5886b"rRemove this yield statement or annotate function "__rich_repr__" with "typing.Generator" or one of its supertypes.(Õ¼‰„şÿÿÿÿ
+upython:S117r"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿ
+Ipython:S5806Å"+Rename this variable; it shadows a builtin.(ö¨²Öüÿÿÿÿ
+mpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(É§åÁ
+mpython:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.( …–Ó
+vpython:S117"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿ
+rpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ß €’øÿÿÿÿ
+/python:S1700œ"Rename field "segments"(©çÕn

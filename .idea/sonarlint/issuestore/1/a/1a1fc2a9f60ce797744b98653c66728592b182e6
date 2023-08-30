@@ -1,0 +1,9 @@
+
+Gpython:S1172´".Remove the unused function parameter "kwargs".(¯êöÈ
+mpython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(›™¦‹
+mpython:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(×ñ¹
+}python:S117­"`Rename this local variable "decorated_setUp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ØÁÕıÿÿÿÿ
+dpython:S1542¯"KRename function "setUp" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ç’¸Ì
+fpython:S100‰"IRename method "setUp" to match the regular expression ^[a-z_][a-z0-9_]*$.(§˜œşÿÿÿÿ
+dpython:S100"LRename method "tearDown" to match the regular expression ^[a-z_][a-z0-9_]*$.(•ûÜë
+wpython:S1186Ì"YAdd a nested comment explaining why this method is empty, or complete the implementation.(úÈ•Õøÿÿÿÿ

@@ -1,0 +1,26 @@
+
+mpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ø€‚ø
+vpython:S3699…"XRemove this use of the output from "subst_vars"; "subst_vars" doesnâ€™t return anything.(ÄŸ§·øÿÿÿÿ
+rpython:S1186Á"YAdd a nested comment explaining why this method is empty, or complete the implementation.(½–½±
+rpython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ô›×¶ûÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠÄÅøÿÿÿÿ
+rpython:S3776«"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(·Ø«Ëûÿÿÿÿ
+epython:S1134Ö"LTake the required action to fix the issue indicated by this "FIXME" comment.(÷Ÿ‘Ï
+rpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ç ç™ÿÿÿÿÿ
+epython:S1134"LTake the required action to fix the issue indicated by this "FIXME" comment.(Äãñó
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ËÜÿæ
+dpython:S1134ô"LTake the required action to fix the issue indicated by this "FIXME" comment.(ÄîB
+rpython:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(äóîòøÿÿÿÿ
+dpython:S1226ı"KIntroduce a new variable or use its initial value before reassigning 'dst'.(¡‰
+Rpython:S1135ã"4Complete the task associated to this "TODO" comment.(¢ßÂšøÿÿÿÿ
+Zpython:S5754‡	"BReraise this exception to stop the application as the user expects(š¿°u
+mpython:S3776»	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(­°­Ñ
+qpython:S3699Ö
+"XRemove this use of the output from "subst_vars"; "subst_vars" doesnâ€™t return anything.(æ¡‘®
+lpython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(”ŠŠ:
+rpython:S3776ş"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(àç­Ãøÿÿÿÿ
+rpython:S3776±"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ˆ¶›‰ıÿÿÿÿ
+Spython:S2836‹"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿ
+gpython:S5632»"IChange this code so that it raises an object deriving from BaseException.(˜Ğğ½øÿÿÿÿ
+Rpython:S1135º"4Complete the task associated to this "TODO" comment.(Ğçøõúÿÿÿÿ
+Epython:S1172ï",Remove the unused function parameter "name".(“½çÌ

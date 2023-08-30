@@ -1,0 +1,6 @@
+
+Cpython:S5806'"+Rename this variable; it shadows a builtin.(‰õŠˆ
+Kpython:S1940¾"-Use the opposite operator ("not in") instead.(İØ  şÿÿÿÿ
+Lpython:S1172î".Remove the unused function parameter "target".(¸ø£ùÿÿÿÿ
+Jpython:S1172î",Remove the unused function parameter "path".(¸ø£ùÿÿÿÿ
+Kpython:S1940÷"-Use the opposite operator ("not in") instead.(İØ  şÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Gpython:S1066)"/Merge this if statement with the enclosing one.(°±µİ
+qpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯Õ¶şÿÿÿÿ
+[python:S6353â"BUse concise character class syntax '\w' instead of '[a-zA-Z_0-9]'.(ÎóËú
+mpython:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥©ãß
+Mpython:S1172Á"/Remove the unused function parameter "verbose".(¯ôÔŞşÿÿÿÿ
+mpython:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(òœÔ
+apython:S5445¦"C'tempfile.mktemp' is insecure. Use 'tempfile.TemporaryFile' instead(Î×ıúÿÿÿÿ
