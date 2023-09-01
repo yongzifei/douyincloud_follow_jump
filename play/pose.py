@@ -1,14 +1,19 @@
 # 处理视频获取关键帧骨骼信息
+import datetime
 
 import cv2
 import mediapipe as mp
-import numpy as np
-import json
+import logging
+
+logger = logging.getLogger('play')
 mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 mp_pose = mp.solutions.pose
 
+
 def get_pose(video_path):
+    logger.info('提取动作')
+    start_time = datetime.datetime.now()
     time_gap = 3 #每隔几秒取一次
     cap = cv2.VideoCapture(video_path)
     cut_fps = int(cap.get(cv2.CAP_PROP_FPS) * time_gap)   # 帧速率
@@ -19,7 +24,7 @@ def get_pose(video_path):
         min_tracking_confidence=0.5) as pose:
         marks = {}
         for f in range(cut_fps, frames, cut_fps):
-            cap.set(cv2.CAP_PROP_POS_FRAMES,f) #直接取帧，不用所有帧都过一遍
+            cap.set(cv2.CAP_PROP_POS_FRAMES, f) #直接取帧，不用所有帧都过一遍
             time_key = int(f/cut_fps*time_gap)
             success, image = cap.read()
             if not success:
@@ -41,4 +46,5 @@ def get_pose(video_path):
         #     json.dump(marks, file, separators=(',',':'))
 
     cap.release()
+    logger.info('完成动作提取，耗时：%f' % (datetime.datetime.now() - start_time))
     return marks, duration

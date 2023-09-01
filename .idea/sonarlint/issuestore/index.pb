@@ -538,13 +538,8 @@ Zvenv/lib/python3.10/site-packages/django/contrib/redirects/locale/sv/LC_MESSAGE
 Zvenv/lib/python3.10/site-packages/django/contrib/redirects/locale/sw/LC_MESSAGES/django.po,2/0/20ed8ebefb18924302b2c6f86b88bd48556209df
 6
 run.sh,3/2/324fcb49f1cf313ebdd7cbda6a71b73727ddd94d
-:
-
-Dockerfile,6/6/6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 Š
 Zvenv/lib/python3.10/site-packages/django/contrib/redirects/locale/ta/LC_MESSAGES/django.po,f/f/ff7fb56b3621dbc86f4e1ea5641bd867a8202690
-9
-	uwsgi.ini,a/1/a1a786c1cad698655f6bc6b85078608a020adcd0
 7
 LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
 Š
@@ -6773,13 +6768,7 @@ C
 play/__init__.py,0/b/0bfc418db7657fe96961be73d1b42862a3051def
 @
 requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
-<
-play/urls.py,3/a/3a0e66eebea5c605513010f4d2164adb7af72922
 C
 follow_jump/urls.py,d/7/d752a686d97197ce57f8fb49afdb7af2273e12b4
->
-play/models.py,f/d/fd423e3e539fd74de79de308352200d625cfdd3f
-G
-follow_jump/settings.py,3/1/31e25c8b3cc19f374200b7a5d5f9e019a9ef1a8a
 <
 play/apps.py,4/2/42ce06f862370fa06a95c457690e136ba9b79633

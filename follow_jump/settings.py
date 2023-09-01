@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'follow_jump.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'polls',
+        'NAME': 'follow_jump',
         'USER': os.environ.get('MYSQL_USERNAME'),
         'PASSWORD': os.environ.get('MYSQL_PASSWORD'),
         'HOST': os.environ.get('MYSQL_ADDRESS').split(':')[0],

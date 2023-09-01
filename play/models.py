@@ -7,7 +7,7 @@ import numpy as np
 class User(AbstractUser):
     class Meta:
         ordering = ['-date_joined']
-    avatar = models.ImageField(upload_to='avatar/%Y/%m/')
+    avatar_url = models.CharField(max_length=200)
 
 
 class Video(models.Model):
