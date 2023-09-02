@@ -46,5 +46,5 @@ def get_pose(video_path):
         #     json.dump(marks, file, separators=(',',':'))
 
     cap.release()
-    logger.info('完成动作提取，耗时：%f' % (datetime.datetime.now() - start_time))
+    logger.info('完成动作提取，耗时：%f' % (datetime.datetime.now() - start_time).seconds)
     return marks, duration

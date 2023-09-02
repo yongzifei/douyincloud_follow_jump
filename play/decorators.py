@@ -22,7 +22,7 @@ def require_login(func=None, redirect=None):
                 return JsonResponse(dict(code=102, msg='Can not get openid'))
 
             try:
-                user = User.objects.get(username=openid)
+                user, created = User.objects.get_or_create(username=openid)
             except User.DoesNotExist:
                 return JsonResponse(dict(code=103, msg='User does not exist'))
 

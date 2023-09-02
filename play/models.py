@@ -7,21 +7,30 @@ import numpy as np
 class User(AbstractUser):
     class Meta:
         ordering = ['-date_joined']
-    avatar_url = models.CharField(max_length=200)
 
+    class Gender(models.IntegerChoices):
+        Created = 0, _('未知')
+        Checked = 1, _('男')
+        Used = 2, _('女')
+
+    avatar_url = models.CharField(max_length=200)
+    gender = models.IntegerField(choices=Gender.choices, default=0)
+    country = models.CharField(max_length=20, blank=True, null=True)
+    province = models.CharField(max_length=20, blank=True, null=True)
+    city = models.CharField(max_length=20, blank=True, null=True)
 
 class Video(models.Model):
-    douyin_video_id = models.CharField(max_length=200)
-    name = models.CharField(max_length=50)
-    desc = models.CharField(max_length=400)
-    tags = models.CharField(max_length=100)
+    douyin_video_id = models.CharField(max_length=200, blank=True)
+    name = models.CharField(max_length=50, blank=True)
+    desc = models.CharField(max_length=400, blank=True)
+    tags = models.CharField(max_length=100, blank=True)
     create_time = models.DateTimeField(auto_now_add=True)
     duration = models.IntegerField(editable=False, default=0)
-    poster = models.ImageField(upload_to='videos/%Y/%m/')
+    poster = models.ImageField(upload_to='videos/%Y/%m/', blank=True)
     user = models.ForeignKey(User, blank=False, on_delete=models.CASCADE)
     poses = models.JSONField(editable=False, help_text='''JSON Format. like {3:[0.3234,-0.1654,0.9987]}''',
                              default=dict)
-    play_times = models.IntegerField()
+    play_times = models.IntegerField(default=0)
 
 
 class Play(models.Model):
